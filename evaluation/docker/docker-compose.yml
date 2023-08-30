@@ -1,0 +1,16 @@
+version: '3'
+services:
+  overpass:
+    # specify the image here
+    container_name: freezed_overpass_7_57_2
+    # uncomment if you want to build the image yourself
+    build: .
+    ports:
+      - 12346:80
+    volumes:
+      # use a docker managed volume
+      - ../overpass_clone_db:/db
+    environment:
+      - OVERPASS_META=attic
+      - OVERPASS_USE_AREAS=true
+      - OVERPASS_SPACE=68719476736
