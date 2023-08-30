@@ -1,4 +1,4 @@
-Code for the preprint:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Real-World OpenStreetMap Querying"](#)
+Code for the preprint:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap"](#)
 
 Live Demo: https://overpassnl.schumann.pub/ <br>
 
@@ -81,8 +81,8 @@ Please cite the following paper:
 
 ```
 @article {staniek-2023-overpassnl,
- title = "Text-to-OverpassQL: A Natural Language Interface for Real-World OpenStreetMap Querying",
- author = "Michael Staniek and Raphael Schumann and Stefan Riezler",
+ title = "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap",
+ author = "Michael Staniek and Raphael Schumann and Maike Züfle and Stefan Riezler",
  year = "2023",
  publisher = "arXiv",
  eprint = "2309.??" 
