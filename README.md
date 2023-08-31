@@ -1,4 +1,4 @@
-Code for the preprint:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap"](#)
+Code for the preprint:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap"](https://arxiv.org/pdf/2308.16060.pdf)
 
 Live Demo: https://overpassnl.schumann.pub/ <br>
 
@@ -85,6 +85,6 @@ Please cite the following paper:
  author = "Michael Staniek and Raphael Schumann and Maike Züfle and Stefan Riezler",
  year = "2023",
  publisher = "arXiv",
- eprint = "2309.??" 
+ eprint = "2308.16060" 
 }
 ```
