@@ -1,1 +1,4457 @@
-
+{
+  "Deutschland": {
+    "osm_id": 51477,
+    "osm_type": "relation"
+  },
+  "Germany": {
+    "osm_id": 51477,
+    "osm_type": "relation"
+  },
+  "Australia": {
+    "osm_id": 80500,
+    "osm_type": "relation"
+  },
+  "Brasil": {
+    "osm_id": 59470,
+    "osm_type": "relation"
+  },
+  "brazil": {
+    "osm_id": 59470,
+    "osm_type": "relation"
+  },
+  "stuttgart": {
+    "osm_id": 2793104,
+    "osm_type": "relation"
+  },
+  "Planegg": {
+    "osm_id": 318693,
+    "osm_type": "relation"
+  },
+  "Belgium": {
+    "osm_id": 52411,
+    "osm_type": "relation"
+  },
+  "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72525,
+    "osm_type": "relation"
+  },
+  "Suisse": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Kurnool": {
+    "osm_id": 603465549,
+    "osm_type": "node"
+  },
+  "PE Brasil": {
+    "osm_id": 303702,
+    "osm_type": "relation"
+  },
+  "South Dakota": {
+    "osm_id": 161652,
+    "osm_type": "relation"
+  },
+  "Rajasthan": {
+    "osm_id": 1942920,
+    "osm_type": "relation"
+  },
+  "Th\u00fcringen": {
+    "osm_id": 62366,
+    "osm_type": "relation"
+  },
+  "Northern Territory": {
+    "osm_id": 2316594,
+    "osm_type": "relation"
+  },
+  "Poland": {
+    "osm_id": 49715,
+    "osm_type": "relation"
+  },
+  "Prakasam": {
+    "osm_id": 2022278,
+    "osm_type": "relation"
+  },
+  "Li\u00e8ge": {
+    "osm_id": 1681788,
+    "osm_type": "relation"
+  },
+  "Brussels": {
+    "osm_id": 58274,
+    "osm_type": "relation"
+  },
+  "Verona": {
+    "osm_id": 44830,
+    "osm_type": "relation"
+  },
+  "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a": {
+    "osm_id": 101746,
+    "osm_type": "relation"
+  },
+  "Sachsen": {
+    "osm_id": 62467,
+    "osm_type": "relation"
+  },
+  "Turkey": {
+    "osm_id": 174737,
+    "osm_type": "relation"
+  },
+  "Ingolstadt": {
+    "osm_id": 62381,
+    "osm_type": "relation"
+  },
+  "Misiones": {
+    "osm_id": 153553,
+    "osm_type": "relation"
+  },
+  "CABA": {
+    "osm_id": 1224652,
+    "osm_type": "relation"
+  },
+  "\u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0443\u0442\u0441\u044c\u043a": {
+    "osm_id": 3557889,
+    "osm_type": "relation"
+  },
+  "Liguria": {
+    "osm_id": 301482,
+    "osm_type": "relation"
+  },
+  "Tr\u00f8ndelag": {
+    "osm_id": 406567,
+    "osm_type": "relation"
+  },
+  "Brazil": {
+    "osm_id": 59470,
+    "osm_type": "relation"
+  },
+  "S\u00e3o Lu\u00eds,jaragu\u00e1 do sul": {
+    "osm_id": 3504647,
+    "osm_type": "relation"
+  },
+  "Netherlands": {
+    "osm_id": 47796,
+    "osm_type": "relation"
+  },
+  "Saint-Pierre-des-Nids": {
+    "osm_id": 108686,
+    "osm_type": "relation"
+  },
+  "Jaragu\u00e1 do Sul": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  },
+  "Alpes-de-Haute-Provence": {
+    "osm_id": 7380,
+    "osm_type": "relation"
+  },
+  "Sydney": {
+    "osm_id": 5750005,
+    "osm_type": "relation"
+  },
+  "Argentina": {
+    "osm_id": 286393,
+    "osm_type": "relation"
+  },
+  "Ukraine": {
+    "osm_id": 60199,
+    "osm_type": "relation"
+  },
+  "Mendoza": {
+    "osm_id": 153540,
+    "osm_type": "relation"
+  },
+  "\u0423\u043a\u0440\u0430\u0457\u043d\u0430": {
+    "osm_id": 60199,
+    "osm_type": "relation"
+  },
+  "Chile": {
+    "osm_id": 167454,
+    "osm_type": "relation"
+  },
+  "Jodoigne": {
+    "osm_id": 1321606,
+    "osm_type": "relation"
+  },
+  "Perwez": {
+    "osm_id": 2105643,
+    "osm_type": "relation"
+  },
+  "Beauvechain": {
+    "osm_id": 1384087,
+    "osm_type": "relation"
+  },
+  "Incourt,Nivelles": {
+    "osm_id": 2102543,
+    "osm_type": "relation"
+  },
+  "H\u00e9l\u00e9cine": {
+    "osm_id": 2102788,
+    "osm_type": "relation"
+  },
+  "Orp-Jauche": {
+    "osm_id": 2102839,
+    "osm_type": "relation"
+  },
+  "Ramillies": {
+    "osm_id": 55947,
+    "osm_type": "relation"
+  },
+  "Jodoigne, Perwez, Beauvechain, Incourt, H\u00e9l\u00e9cine, Orp-Jauche, Ramillies": null,
+  "Ulm": {
+    "osm_id": 62495,
+    "osm_type": "relation"
+  },
+  "Paris": {
+    "osm_id": 7444,
+    "osm_type": "relation"
+  },
+  "Wisconsin": {
+    "osm_id": 165466,
+    "osm_type": "relation"
+  },
+  "RS, Brasil": {
+    "osm_id": 242620,
+    "osm_type": "relation"
+  },
+  "Brandenburg": {
+    "osm_id": 62504,
+    "osm_type": "relation"
+  },
+  "Antwerpen": {
+    "osm_id": 59518,
+    "osm_type": "relation"
+  },
+  "Singen/Hohentwiel": {
+    "osm_id": 2785095,
+    "osm_type": "relation"
+  },
+  "Norway": {
+    "osm_id": 2978650,
+    "osm_type": "relation"
+  },
+  "South Carolina": {
+    "osm_id": 224040,
+    "osm_type": "relation"
+  },
+  "Blankenberge, Belgium": {
+    "osm_id": 2239903,
+    "osm_type": "relation"
+  },
+  "London": {
+    "osm_id": 65606,
+    "osm_type": "relation"
+  },
+  "DE": {
+    "osm_id": 51477,
+    "osm_type": "relation"
+  },
+  "Astana": {
+    "osm_id": 3087156,
+    "osm_type": "relation"
+  },
+  "Queensland": {
+    "osm_id": 2316595,
+    "osm_type": "relation"
+  },
+  "Tuscany": {
+    "osm_id": 41977,
+    "osm_type": "relation"
+  },
+  "Pordenone": {
+    "osm_id": 179205,
+    "osm_type": "relation"
+  },
+  "Bahnstrecke Mannheim": null,
+  "Hamburg": {
+    "osm_id": 62782,
+    "osm_type": "relation"
+  },
+  "County Cork": {
+    "osm_id": 332631,
+    "osm_type": "relation"
+  },
+  "Cork County": {
+    "osm_id": 11797890,
+    "osm_type": "relation"
+  },
+  "Ardennes": {
+    "osm_id": 7395,
+    "osm_type": "relation"
+  },
+  "Ardenne": {
+    "osm_id": 7395,
+    "osm_type": "relation"
+  },
+  "Democratic Republic of the Congo": {
+    "osm_id": 192795,
+    "osm_type": "relation"
+  },
+  "Madeira": {
+    "osm_id": 1629145,
+    "osm_type": "relation"
+  },
+  "Philippines": {
+    "osm_id": 443174,
+    "osm_type": "relation"
+  },
+  "New York State": {
+    "osm_id": 61320,
+    "osm_type": "relation"
+  },
+  "North Dakota": {
+    "osm_id": 161653,
+    "osm_type": "relation"
+  },
+  "Berlin": {
+    "osm_id": 62422,
+    "osm_type": "relation"
+  },
+  "Niedersachsen": {
+    "osm_id": 62771,
+    "osm_type": "relation"
+  },
+  "\u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71973,
+    "osm_type": "relation"
+  },
+  "Tirol": {
+    "osm_id": 52343,
+    "osm_type": "relation"
+  },
+  "Friuli Venezia Giulia": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "Cabo Delgado": {
+    "osm_id": 2908364,
+    "osm_type": "relation"
+  },
+  "Cabo Delgado Province": {
+    "osm_id": 2908364,
+    "osm_type": "relation"
+  },
+  "Bosnien und Herzegowina": {
+    "osm_id": 2528142,
+    "osm_type": "relation"
+  },
+  "Aiglun, Digne-les-Bains, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04510, France": {
+    "osm_id": 1999649,
+    "osm_type": "relation"
+  },
+  "Aiglun, Digne-les-Bains, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine,04510,France": {
+    "osm_id": 1999649,
+    "osm_type": "relation"
+  },
+  "France": {
+    "osm_id": 2202162,
+    "osm_type": "relation"
+  },
+  "Oslo": {
+    "osm_id": 406091,
+    "osm_type": "relation"
+  },
+  "oslo": {
+    "osm_id": 406091,
+    "osm_type": "relation"
+  },
+  "Finnland": {
+    "osm_id": 54224,
+    "osm_type": "relation"
+  },
+  "Meurthe-et-Moselle": {
+    "osm_id": 51856,
+    "osm_type": "relation"
+  },
+  "Russia": {
+    "osm_id": 60189,
+    "osm_type": "relation"
+  },
+  "designated": {
+    "osm_id": 10126516234,
+    "osm_type": "node"
+  },
+  "India": {
+    "osm_id": 304716,
+    "osm_type": "relation"
+  },
+  "Umbria": {
+    "osm_id": 42004,
+    "osm_type": "relation"
+  },
+  "montrouge": {
+    "osm_id": 37026,
+    "osm_type": "relation"
+  },
+  "Montrouge": {
+    "osm_id": 37026,
+    "osm_type": "relation"
+  },
+  "Imola": {
+    "osm_id": 43020,
+    "osm_type": "relation"
+  },
+  "\u041b\u044c\u0432\u0456\u0432": {
+    "osm_id": 2032280,
+    "osm_type": "relation"
+  },
+  "\u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430": {
+    "osm_id": 4632505,
+    "osm_type": "relation"
+  },
+  "Schweiz": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Thuringia": {
+    "osm_id": 62366,
+    "osm_type": "relation"
+  },
+  "Alpes-de-Haute-Provence,France": {
+    "osm_id": 7380,
+    "osm_type": "relation"
+  },
+  "United States": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "Karlovarsk\u00fd kraj": {
+    "osm_id": 442314,
+    "osm_type": "relation"
+  },
+  "Karlovy Vary Region": {
+    "osm_id": 439482,
+    "osm_type": "relation"
+  },
+  "Eda kommun": {
+    "osm_id": 935657,
+    "osm_type": "relation"
+  },
+  "Brussels, Belgium": {
+    "osm_id": 58274,
+    "osm_type": "relation"
+  },
+  "Laranjal Paulista": {
+    "osm_id": 297897,
+    "osm_type": "relation"
+  },
+  "Makedonia": {
+    "osm_id": 53293,
+    "osm_type": "relation"
+  },
+  "Gironde": {
+    "osm_id": 7405,
+    "osm_type": "relation"
+  },
+  "Angola": {
+    "osm_id": 195267,
+    "osm_type": "relation"
+  },
+  "South Africa": {
+    "osm_id": 87565,
+    "osm_type": "relation"
+  },
+  "Wroc\u0142aw": {
+    "osm_id": 451516,
+    "osm_type": "relation"
+  },
+  "Nederland": {
+    "osm_id": 47796,
+    "osm_type": "relation"
+  },
+  "Denmark": {
+    "osm_id": 50046,
+    "osm_type": "relation"
+  },
+  "Washington DC": {
+    "osm_id": 5396194,
+    "osm_type": "relation"
+  },
+  "Santa Maria RS": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "Montana": {
+    "osm_id": 162115,
+    "osm_type": "relation"
+  },
+  "Rheinberg": {
+    "osm_id": 58643,
+    "osm_type": "relation"
+  },
+  "Dijon": {
+    "osm_id": 74090,
+    "osm_type": "relation"
+  },
+  "Vend\u00e9e": {
+    "osm_id": 7402,
+    "osm_type": "relation"
+  },
+  "\u82b1\u84ee\u7e23": {
+    "osm_id": 2921156,
+    "osm_type": "relation"
+  },
+  "Japan": {
+    "osm_id": 382313,
+    "osm_type": "relation"
+  },
+  "Gard": {
+    "osm_id": 7461,
+    "osm_type": "relation"
+  },
+  "Ireland": {
+    "osm_id": 62273,
+    "osm_type": "relation"
+  },
+  "Czech Republic": {
+    "osm_id": 51684,
+    "osm_type": "relation"
+  },
+  "Iran": {
+    "osm_id": 304938,
+    "osm_type": "relation"
+  },
+  "Almenara spain": {
+    "osm_id": 339537,
+    "osm_type": "relation"
+  },
+  "\u0420\u043e\u0441\u0441\u0438\u044f": {
+    "osm_id": 60189,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043a\u0432\u0430": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "\u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72195,
+    "osm_type": "relation"
+  },
+  "Dahme-Spreewald": {
+    "osm_id": 62376,
+    "osm_type": "relation"
+  },
+  "Dresden": {
+    "osm_id": 191645,
+    "osm_type": "relation"
+  },
+  "Uganda": {
+    "osm_id": 192796,
+    "osm_type": "relation"
+  },
+  "Nepal": {
+    "osm_id": 184633,
+    "osm_type": "relation"
+  },
+  "Jura, France": {
+    "osm_id": 7460,
+    "osm_type": "relation"
+  },
+  "zachodniopomorskie": {
+    "osm_id": 104401,
+    "osm_type": "relation"
+  },
+  "Hungary": {
+    "osm_id": 21335,
+    "osm_type": "relation"
+  },
+  "MN": {
+    "osm_id": 165471,
+    "osm_type": "relation"
+  },
+  "Mongolia": {
+    "osm_id": 161033,
+    "osm_type": "relation"
+  },
+  "Santa Ana,Taytay, Rizal,Philippines": {
+    "osm_id": 2997748,
+    "osm_type": "relation"
+  },
+  "Santa Ana,Taytay, Rizal": {
+    "osm_id": 2997748,
+    "osm_type": "relation"
+  },
+  "D\u00fcsseldorf": {
+    "osm_id": 62539,
+    "osm_type": "relation"
+  },
+  "Nevada": {
+    "osm_id": 165473,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f_bbox": {
+    "bbox": [
+      "55.4913076",
+      "55.9577717",
+      "37.290502",
+      "37.9674277"
+    ]
+  },
+  "Digne-les-Bains": {
+    "osm_id": 85909,
+    "osm_type": "relation"
+  },
+  "portugal": {
+    "osm_id": 295480,
+    "osm_type": "relation"
+  },
+  "Portugal": {
+    "osm_id": 295480,
+    "osm_type": "relation"
+  },
+  "Santa Maria, RS, Brasil": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "Kampala": {
+    "osm_id": 10546821,
+    "osm_type": "relation"
+  },
+  "Burkina Faso": {
+    "osm_id": 192783,
+    "osm_type": "relation"
+  },
+  "Mamburao, Occidental Mindoro": {
+    "osm_id": 6517240,
+    "osm_type": "relation"
+  },
+  "\u9ad8\u96c4\u5e02": {
+    "osm_id": 2127079,
+    "osm_type": "relation"
+  },
+  "Sceaux": {
+    "osm_id": 946584,
+    "osm_type": "relation"
+  },
+  "64.14829,-21.94296_centre": {
+    "lat": "64.14842865",
+    "lon": "-21.94294968462293"
+  },
+  "\u96f2\u6797\u7e23": {
+    "osm_id": 2915930,
+    "osm_type": "relation"
+  },
+  "Leningrad oblast": {
+    "osm_id": 176095,
+    "osm_type": "relation"
+  },
+  "Himachal Pradesh": {
+    "osm_id": 364186,
+    "osm_type": "relation"
+  },
+  "Schmerikon": {
+    "osm_id": 1683933,
+    "osm_type": "relation"
+  },
+  "Sicilia": {
+    "osm_id": 39152,
+    "osm_type": "relation"
+  },
+  "New South Wales": {
+    "osm_id": 2316593,
+    "osm_type": "relation"
+  },
+  "Wyoming": {
+    "osm_id": 161991,
+    "osm_type": "relation"
+  },
+  "Peru": {
+    "osm_id": 288247,
+    "osm_type": "relation"
+  },
+  "California": {
+    "osm_id": 165475,
+    "osm_type": "relation"
+  },
+  "V\u00f6tting": {
+    "osm_id": 10669865,
+    "osm_type": "relation"
+  },
+  "M\u00e9tropole Europ\u00e9enne de Lille": {
+    "osm_id": 1744467,
+    "osm_type": "relation"
+  },
+  "Krefeld": {
+    "osm_id": 62748,
+    "osm_type": "relation"
+  },
+  "Piemonte": {
+    "osm_id": 44874,
+    "osm_type": "relation"
+  },
+  "Gavea RJ Brasil": {
+    "osm_id": 5520314,
+    "osm_type": "relation"
+  },
+  "Loire atlantique": {
+    "osm_id": 7432,
+    "osm_type": "relation"
+  },
+  "Odra": {
+    "osm_id": 387605,
+    "osm_type": "relation"
+  },
+  "Singapore": {
+    "osm_id": 536780,
+    "osm_type": "relation"
+  },
+  "Vermont": {
+    "osm_id": 60759,
+    "osm_type": "relation"
+  },
+  "HAMBURG": {
+    "osm_id": 62782,
+    "osm_type": "relation"
+  },
+  "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430": {
+    "osm_id": 2362664,
+    "osm_type": "relation"
+  },
+  "CH": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Per\u00fa": {
+    "osm_id": 288247,
+    "osm_type": "relation"
+  },
+  "Canada": {
+    "osm_id": 1428125,
+    "osm_type": "relation"
+  },
+  "Max\u00e9ville": {
+    "osm_id": 52400,
+    "osm_type": "relation"
+  },
+  "Santa Luzia,Jaragu\u00e1 do Sul": {
+    "osm_id": 3497554,
+    "osm_type": "relation"
+  },
+  "Gemeinde": {
+    "osm_id": 5970514026,
+    "osm_type": "node"
+  },
+  "Basse-Normandie": {
+    "osm_id": 8646,
+    "osm_type": "relation"
+  },
+  "A\u00e7ores": {
+    "osm_id": 1629146,
+    "osm_type": "relation"
+  },
+  "Ludwigshafen am Rhein": {
+    "osm_id": 62347,
+    "osm_type": "relation"
+  },
+  "Quadra 203, Residencial Oeste, Sao Sebastiao, DF": {
+    "osm_id": 9574414,
+    "osm_type": "relation"
+  },
+  "Regierungsbezirk Oberpfalz": {
+    "osm_id": 17596,
+    "osm_type": "relation"
+  },
+  "Orange County": {
+    "osm_id": 396466,
+    "osm_type": "relation"
+  },
+  "friuli Venezia giulia": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "Azerbaijan": {
+    "osm_id": 364110,
+    "osm_type": "relation"
+  },
+  "czechia": {
+    "osm_id": 51684,
+    "osm_type": "relation"
+  },
+  "Malm": {
+    "osm_id": 190367,
+    "osm_type": "relation"
+  },
+  "Khamovniki District, Moscow, Russia": {
+    "osm_id": 1255987,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u043c\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430": null,
+  "Tamil Nadu": {
+    "osm_id": 96905,
+    "osm_type": "relation"
+  },
+  "Maroc": {
+    "osm_id": 3630439,
+    "osm_type": "relation"
+  },
+  "berlin": {
+    "osm_id": 62422,
+    "osm_type": "relation"
+  },
+  "Uruguay": {
+    "osm_id": 287072,
+    "osm_type": "relation"
+  },
+  "Moldova": {
+    "osm_id": 58974,
+    "osm_type": "relation"
+  },
+  "Burgas,Bulgaria": {
+    "osm_id": 1739523,
+    "osm_type": "relation"
+  },
+  "Burgas, Bulgaria": {
+    "osm_id": 1739523,
+    "osm_type": "relation"
+  },
+  "Mallorca": {
+    "osm_id": 6803636,
+    "osm_type": "relation"
+  },
+  "\u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 91294,
+    "osm_type": "relation"
+  },
+  "Bretagne": {
+    "osm_id": 102740,
+    "osm_type": "relation"
+  },
+  "Villarosa": {
+    "osm_id": 39292,
+    "osm_type": "relation"
+  },
+  "ZA": {
+    "osm_id": 87565,
+    "osm_type": "relation"
+  },
+  "recife": {
+    "osm_id": 303585,
+    "osm_type": "relation"
+  },
+  "Udine": {
+    "osm_id": 179272,
+    "osm_type": "relation"
+  },
+  "Rheine": {
+    "osm_id": 155707,
+    "osm_type": "relation"
+  },
+  "\u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 90726,
+    "osm_type": "relation"
+  },
+  "K\u00f6ln": {
+    "osm_id": 62578,
+    "osm_type": "relation"
+  },
+  "Italia": {
+    "osm_id": 365331,
+    "osm_type": "relation"
+  },
+  "Italy": {
+    "osm_id": 365331,
+    "osm_type": "relation"
+  },
+  "San Francisco_centre": {
+    "lat": "37.7790262",
+    "lon": "-122.419906"
+  },
+  "Yadagiri district": {
+    "osm_id": 3686856,
+    "osm_type": "relation"
+  },
+  "Hong Kong": {
+    "osm_id": 10264792,
+    "osm_type": "relation"
+  },
+  "Sachsen-Anhalt": {
+    "osm_id": 62607,
+    "osm_type": "relation"
+  },
+  "Opole": {
+    "osm_id": 2661906,
+    "osm_type": "relation"
+  },
+  "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c": {
+    "osm_id": 108081,
+    "osm_type": "relation"
+  },
+  "Stawropol, Russland": {
+    "osm_id": 6712557,
+    "osm_type": "relation"
+  },
+  "Mbeya, Tanzania": {
+    "osm_id": 1600771,
+    "osm_type": "relation"
+  },
+  "Kerala": {
+    "osm_id": 2018151,
+    "osm_type": "relation"
+  },
+  "Ismaning": {
+    "osm_id": 2168245,
+    "osm_type": "relation"
+  },
+  "L\u00fcbeck": {
+    "osm_id": 25327151,
+    "osm_type": "node"
+  },
+  "zimbabwe": {
+    "osm_id": 195272,
+    "osm_type": "relation"
+  },
+  "Zimbabwe": {
+    "osm_id": 195272,
+    "osm_type": "relation"
+  },
+  "Paraibuna": {
+    "osm_id": 297932,
+    "osm_type": "relation"
+  },
+  "Baden-W\u00fcrttemberg": {
+    "osm_id": 62611,
+    "osm_type": "relation"
+  },
+  "rome": {
+    "osm_id": 41485,
+    "osm_type": "relation"
+  },
+  "S\u00e3o Paulo SP": {
+    "osm_id": 298285,
+    "osm_type": "relation"
+  },
+  "Luxembourg": {
+    "osm_id": 2171347,
+    "osm_type": "relation"
+  },
+  "Normandie": {
+    "osm_id": 3793170,
+    "osm_type": "relation"
+  },
+  "Austria": {
+    "osm_id": 16239,
+    "osm_type": "relation"
+  },
+  "Karlovarsky": {
+    "osm_id": 442314,
+    "osm_type": "relation"
+  },
+  "Tifa Martins,Jaragu\u00e1 do Sul": {
+    "osm_id": 3502059,
+    "osm_type": "relation"
+  },
+  "District of Columbia": {
+    "osm_id": 162069,
+    "osm_type": "relation"
+  },
+  "Ebhausen": {
+    "osm_id": 1181073,
+    "osm_type": "relation"
+  },
+  "Montenegro": {
+    "osm_id": 53296,
+    "osm_type": "relation"
+  },
+  "Cluj-Napoca": {
+    "osm_id": 3277038,
+    "osm_type": "relation"
+  },
+  "Vila Lenzi,Jaragu\u00e1 do Sul": {
+    "osm_id": 3501955,
+    "osm_type": "relation"
+  },
+  "Neubiberg": {
+    "osm_id": 2168248,
+    "osm_type": "relation"
+  },
+  "Deux-S\u00e8vres": {
+    "osm_id": 7455,
+    "osm_type": "relation"
+  },
+  "Slovenia": {
+    "osm_id": 218657,
+    "osm_type": "relation"
+  },
+  "Bessa Jo\u00e3o pessoa Brasil": {
+    "osm_id": 2979381,
+    "osm_type": "relation"
+  },
+  "\u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433": {
+    "osm_id": 421007,
+    "osm_type": "relation"
+  },
+  "Albania": {
+    "osm_id": 53292,
+    "osm_type": "relation"
+  },
+  "Latvia": {
+    "osm_id": 72594,
+    "osm_type": "relation"
+  },
+  "\u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 81994,
+    "osm_type": "relation"
+  },
+  "Emiliano Perneta Pinhais pR Brasil": {
+    "osm_id": 6362236,
+    "osm_type": "relation"
+  },
+  "Luzon,Philippines": {
+    "osm_id": 6995280,
+    "osm_type": "relation"
+  },
+  "New Zealand": {
+    "osm_id": 556706,
+    "osm_type": "relation"
+  },
+  "ile-de-france": {
+    "osm_id": 8649,
+    "osm_type": "relation"
+  },
+  "Mecklenburg-Vorpommern": {
+    "osm_id": 28322,
+    "osm_type": "relation"
+  },
+  "Malaysia": {
+    "osm_id": 2108121,
+    "osm_type": "relation"
+  },
+  "Nordrhein-Westfalen": {
+    "osm_id": 62761,
+    "osm_type": "relation"
+  },
+  "Magnitogorsk": {
+    "osm_id": 10185071,
+    "osm_type": "relation"
+  },
+  "Vanuatu": {
+    "osm_id": 2177246,
+    "osm_type": "relation"
+  },
+  "Cura\u00e7ao": {
+    "osm_id": 2867318,
+    "osm_type": "relation"
+  },
+  "CH-VS": {
+    "osm_id": 1686699,
+    "osm_type": "relation"
+  },
+  "Augsburg": {
+    "osm_id": 62407,
+    "osm_type": "relation"
+  },
+  "Barcelona, Spain": {
+    "osm_id": 347950,
+    "osm_type": "relation"
+  },
+  "france": {
+    "osm_id": 2202162,
+    "osm_type": "relation"
+  },
+  "Cohab Fernando Ferrari": {
+    "osm_id": 3944802,
+    "osm_type": "relation"
+  },
+  "ob Cohab Fernando Ferrari": null,
+  "Bayern": {
+    "osm_id": 2145268,
+    "osm_type": "relation"
+  },
+  "\u5f70\u5316\u7e23": {
+    "osm_id": 2917549,
+    "osm_type": "relation"
+  },
+  "Wien": {
+    "osm_id": 109166,
+    "osm_type": "relation"
+  },
+  "Posadas": {
+    "osm_id": 2294383,
+    "osm_type": "relation"
+  },
+  "Rosario,AR": {
+    "osm_id": 3594027,
+    "osm_type": "relation"
+  },
+  "Rosario, AR": {
+    "osm_id": 3594027,
+    "osm_type": "relation"
+  },
+  "taiwan": {
+    "osm_id": 449220,
+    "osm_type": "relation"
+  },
+  "forli-cesena": {
+    "osm_id": 42609,
+    "osm_type": "relation"
+  },
+  "Benin": {
+    "osm_id": 192784,
+    "osm_type": "relation"
+  },
+  "Cyprus": {
+    "osm_id": 307787,
+    "osm_type": "relation"
+  },
+  "Transilien": {
+    "osm_id": 422423898,
+    "osm_type": "way"
+  },
+  "Arua": {
+    "osm_id": 3501793,
+    "osm_type": "relation"
+  },
+  "Maracha": {
+    "osm_id": 3501823,
+    "osm_type": "relation"
+  },
+  "Partido de Lomas de Zamora": {
+    "osm_id": 2400639,
+    "osm_type": "relation"
+  },
+  "sachsen": {
+    "osm_id": 62467,
+    "osm_type": "relation"
+  },
+  "Vienna": {
+    "osm_id": 109166,
+    "osm_type": "relation"
+  },
+  "Novi Sad City": {
+    "osm_id": 1649672,
+    "osm_type": "relation"
+  },
+  "Bochum": {
+    "osm_id": 62644,
+    "osm_type": "relation"
+  },
+  "Parque Erasmo Assun\u00e7\u00e3o, Santo Andr\u00e9": {
+    "osm_id": 9946680,
+    "osm_type": "relation"
+  },
+  "Misiones, Argentina": {
+    "osm_id": 153553,
+    "osm_type": "relation"
+  },
+  "Iraq": {
+    "osm_id": 304934,
+    "osm_type": "relation"
+  },
+  "Grenoble": {
+    "osm_id": 80348,
+    "osm_type": "relation"
+  },
+  "Op\u0161tina \u0160ekovi\u0107i": {
+    "osm_id": 2528263,
+    "osm_type": "relation"
+  },
+  "24943": {
+    "osm_id": 2336858,
+    "osm_type": "relation"
+  },
+  "\u0420\u043e\u0441\u0441\u0438\u044f, \u041c\u043e\u0441\u043a\u0432\u0430": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "Leimen": {
+    "osm_id": 453397,
+    "osm_type": "relation"
+  },
+  "LePure": null,
+  "Saarland": {
+    "osm_id": 62372,
+    "osm_type": "relation"
+  },
+  "45326 Essen": {
+    "osm_id": 62713,
+    "osm_type": "relation"
+  },
+  "\u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 101746,
+    "osm_type": "relation"
+  },
+  "Oberpfalz": {
+    "osm_id": 17596,
+    "osm_type": "relation"
+  },
+  "Landkreis Offenbach": {
+    "osm_id": 62715,
+    "osm_type": "relation"
+  },
+  "Vila Lalau,Jaragu\u00e1 do Sul": {
+    "osm_id": 3499623,
+    "osm_type": "relation"
+  },
+  "Gie\u00dfen": {
+    "osm_id": 418617,
+    "osm_type": "relation"
+  },
+  "Troisdorf": {
+    "osm_id": 55060,
+    "osm_type": "relation"
+  },
+  "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71236,
+    "osm_type": "relation"
+  },
+  "Warsaw_centre": {
+    "lat": "52.2319581",
+    "lon": "21.0067249"
+  },
+  "Bath and North East Somerset": {
+    "osm_id": 81941,
+    "osm_type": "relation"
+  },
+  "Drenthe": {
+    "osm_id": 47540,
+    "osm_type": "relation"
+  },
+  "Ile de France": {
+    "osm_id": 8649,
+    "osm_type": "relation"
+  },
+  "Greater Manchester": {
+    "osm_id": 88084,
+    "osm_type": "relation"
+  },
+  "Karnataka": {
+    "osm_id": 2019939,
+    "osm_type": "relation"
+  },
+  "\u0406\u0432\u0430\u043d\u043e-\u0424\u0440\u0430\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72488,
+    "osm_type": "relation"
+  },
+  "Avignon": {
+    "osm_id": 102478,
+    "osm_type": "relation"
+  },
+  "jaragu\u00e1 do sul": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  },
+  "Altona": {
+    "osm_id": 30223,
+    "osm_type": "relation"
+  },
+  "argentina": {
+    "osm_id": 286393,
+    "osm_type": "relation"
+  },
+  "Matera": {
+    "osm_id": 40259,
+    "osm_type": "relation"
+  },
+  "Jharkhand": {
+    "osm_id": 1960191,
+    "osm_type": "relation"
+  },
+  "T\u00fcbingen": {
+    "osm_id": 2778914,
+    "osm_type": "relation"
+  },
+  "M\u00fcnchen": {
+    "osm_id": 62428,
+    "osm_type": "relation"
+  },
+  "S\u00e3o Gabriel RS": {
+    "osm_id": 242490,
+    "osm_type": "relation"
+  },
+  "Seine-Maritime": {
+    "osm_id": 7426,
+    "osm_type": "relation"
+  },
+  "Marki": {
+    "osm_id": 3015006,
+    "osm_type": "relation"
+  },
+  "Arunachal Pradesh": {
+    "osm_id": 2027346,
+    "osm_type": "relation"
+  },
+  "S\u00c3O FRANCISCO DO SUL SC Brasil": {
+    "osm_id": 296696,
+    "osm_type": "relation"
+  },
+  "S\u00c3OFRANCISCO DO SUL SC Brasil": null,
+  "Dortmund": {
+    "osm_id": 1829065,
+    "osm_type": "relation"
+  },
+  "Overath": {
+    "osm_id": 173104,
+    "osm_type": "relation"
+  },
+  "Entre R\u00edos": {
+    "osm_id": 153551,
+    "osm_type": "relation"
+  },
+  "\u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72635,
+    "osm_type": "relation"
+  },
+  "Madhya Pradesh": {
+    "osm_id": 1950071,
+    "osm_type": "relation"
+  },
+  "R\u012bga": {
+    "osm_id": 13048688,
+    "osm_type": "relation"
+  },
+  "bavaria": {
+    "osm_id": 2145268,
+    "osm_type": "relation"
+  },
+  "Bavaria": {
+    "osm_id": 2145268,
+    "osm_type": "relation"
+  },
+  "\u58eb\u6797\u5340": {
+    "osm_id": 2905066,
+    "osm_type": "relation"
+  },
+  "Paraguay": {
+    "osm_id": 287077,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043f\u0435\u043a\u0442\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e": null,
+  "Rolim de Moura": {
+    "osm_id": 325876,
+    "osm_type": "relation"
+  },
+  " Rolim de Moura": {
+    "osm_id": 325876,
+    "osm_type": "relation"
+  },
+  "Bergen": {
+    "osm_id": 404159,
+    "osm_type": "relation"
+  },
+  "Kreis D\u00fcren": {
+    "osm_id": 62452,
+    "osm_type": "relation"
+  },
+  "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72380,
+    "osm_type": "relation"
+  },
+  "Fontenay-aux-Roses": {
+    "osm_id": 37021,
+    "osm_type": "relation"
+  },
+  "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c": {
+    "osm_id": 59065,
+    "osm_type": "relation"
+  },
+  "Santa Fe": {
+    "osm_id": 153543,
+    "osm_type": "relation"
+  },
+  "Campinas SP Brasil": {
+    "osm_id": 298227,
+    "osm_type": "relation"
+  },
+  "\u0422\u0430\u043c\u0431\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72180,
+    "osm_type": "relation"
+  },
+  "troms": {
+    "osm_id": 10155507,
+    "osm_type": "relation"
+  },
+  "Troms": {
+    "osm_id": 10155507,
+    "osm_type": "relation"
+  },
+  "M\u00fcnster": {
+    "osm_id": 62591,
+    "osm_type": "relation"
+  },
+  "Poltava": {
+    "osm_id": 91294,
+    "osm_type": "relation"
+  },
+  "Jammu and Kashmir": {
+    "osm_id": 1943188,
+    "osm_type": "relation"
+  },
+  "\u81fa\u5357\u5e02": {
+    "osm_id": 2418506,
+    "osm_type": "relation"
+  },
+  "17e": {
+    "osm_id": 9519,
+    "osm_type": "relation"
+  },
+  "Koblenz": {
+    "osm_id": 62512,
+    "osm_type": "relation"
+  },
+  "C\u00f4tes-d'Armor": {
+    "osm_id": 7398,
+    "osm_type": "relation"
+  },
+  "Bertsdorf-H\u00f6rnitz": {
+    "osm_id": 240041923,
+    "osm_type": "node"
+  },
+  "Idaho": {
+    "osm_id": 162116,
+    "osm_type": "relation"
+  },
+  "Landkreis Berchtesgadener Land": {
+    "osm_id": 62712,
+    "osm_type": "relation"
+  },
+  "Provincia di Bologna": {
+    "osm_id": 42856,
+    "osm_type": "relation"
+  },
+  "prague": {
+    "osm_id": 435514,
+    "osm_type": "relation"
+  },
+  "Prague": {
+    "osm_id": 435514,
+    "osm_type": "relation"
+  },
+  "Finland": {
+    "osm_id": 54224,
+    "osm_type": "relation"
+  },
+  "Nantes": {
+    "osm_id": 59874,
+    "osm_type": "relation"
+  },
+  "Donauw\u00f6rth": {
+    "osm_id": 582215,
+    "osm_type": "relation"
+  },
+  "Regierungsbezirk Detmold": {
+    "osm_id": 73347,
+    "osm_type": "relation"
+  },
+  "Hainewalde": {
+    "osm_id": 418126,
+    "osm_type": "relation"
+  },
+  "\u00d6sterreich": {
+    "osm_id": 16239,
+    "osm_type": "relation"
+  },
+  "Foligno": {
+    "osm_id": 42241,
+    "osm_type": "relation"
+  },
+  "Gent": {
+    "osm_id": 897671,
+    "osm_type": "relation"
+  },
+  "Minnesota": {
+    "osm_id": 165471,
+    "osm_type": "relation"
+  },
+  "Greater London": {
+    "osm_id": 175342,
+    "osm_type": "relation"
+  },
+  "Germany Austria": {
+    "osm_id": 443604357,
+    "osm_type": "node"
+  },
+  "Geneva": {
+    "osm_id": 1685488,
+    "osm_type": "relation"
+  },
+  "Santa Maria,RS": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "Nortorf": {
+    "osm_id": 548558,
+    "osm_type": "relation"
+  },
+  "Ternopil": {
+    "osm_id": 72525,
+    "osm_type": "relation"
+  },
+  "Ternopil, Ukraine": {
+    "osm_id": 72525,
+    "osm_type": "relation"
+  },
+  "Vicenza": {
+    "osm_id": 44580,
+    "osm_type": "relation"
+  },
+  "United Kingdom": {
+    "osm_id": 62149,
+    "osm_type": "relation"
+  },
+  "Alba\u00f1\u00e1": {
+    "osm_id": 14285065,
+    "osm_type": "relation"
+  },
+  "New York City_centre": {
+    "lat": "40.7127281",
+    "lon": "-74.0060152"
+  },
+  "Greece": {
+    "osm_id": 192307,
+    "osm_type": "relation"
+  },
+  "Weimarer Land": {
+    "osm_id": 3146277,
+    "osm_type": "relation"
+  },
+  "Polska": {
+    "osm_id": 49715,
+    "osm_type": "relation"
+  },
+  "Los Angeles County": {
+    "osm_id": 396479,
+    "osm_type": "relation"
+  },
+  "Los Angeles County, United States": {
+    "osm_id": 396479,
+    "osm_type": "relation"
+  },
+  "Leipzig": {
+    "osm_id": 62649,
+    "osm_type": "relation"
+  },
+  "\u82d7\u6817\u7e23": {
+    "osm_id": 2915592,
+    "osm_type": "relation"
+  },
+  "Adolfo Su\u00e1rez Madrid": {
+    "osm_id": 167025457,
+    "osm_type": "way"
+  },
+  "drome": {
+    "osm_id": 7434,
+    "osm_type": "relation"
+  },
+  "\u0425\u043c\u0435\u043b\u044c\u043d\u0438\u0446\u044c\u043a\u0438\u0439": {
+    "osm_id": 1792913,
+    "osm_type": "relation"
+  },
+  "barro,recife": {
+    "osm_id": 4268598,
+    "osm_type": "relation"
+  },
+  "aveyron": {
+    "osm_id": 7451,
+    "osm_type": "relation"
+  },
+  "Aveyron": {
+    "osm_id": 7451,
+    "osm_type": "relation"
+  },
+  "Val-de-Marne": {
+    "osm_id": 7458,
+    "osm_type": "relation"
+  },
+  "Libourne": {
+    "osm_id": 89255,
+    "osm_type": "relation"
+  },
+  "Essex County, Massachusetts, United States of America": {
+    "osm_id": 90434,
+    "osm_type": "relation"
+  },
+  "turkey": {
+    "osm_id": 174737,
+    "osm_type": "relation"
+  },
+  "Rheinland-Pfalz": {
+    "osm_id": 62341,
+    "osm_type": "relation"
+  },
+  "Great Britain": {
+    "osm_id": 6038068,
+    "osm_type": "relation"
+  },
+  "\u0141\u00f3d\u017a": {
+    "osm_id": 2413295,
+    "osm_type": "relation"
+  },
+  "Jaragu\u00e1 do Sul,Santa Catarina": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  },
+  "Florida": {
+    "osm_id": 162050,
+    "osm_type": "relation"
+  },
+  "\u0421\u0430\u043c\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72194,
+    "osm_type": "relation"
+  },
+  "freiberg": {
+    "osm_id": 416561,
+    "osm_type": "relation"
+  },
+  "Aalter": {
+    "osm_id": 721879,
+    "osm_type": "relation"
+  },
+  " LV-RIX": {
+    "osm_id": 13048688,
+    "osm_type": "relation"
+  },
+  "Martina Franca": {
+    "osm_id": 40610,
+    "osm_type": "relation"
+  },
+  "\u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71248,
+    "osm_type": "relation"
+  },
+  "S\u00e3o Lu\u00eds,Jaragu\u00e1 do Sul": {
+    "osm_id": 3504647,
+    "osm_type": "relation"
+  },
+  "S\u00e3o Paulo": {
+    "osm_id": 298285,
+    "osm_type": "relation"
+  },
+  "s\u00e3o paulo": {
+    "osm_id": 298285,
+    "osm_type": "relation"
+  },
+  "Aguas Claras,Jaragu\u00e1 do Sul": {
+    "osm_id": 3501839,
+    "osm_type": "relation"
+  },
+  "Oahu": {
+    "osm_id": 3489649,
+    "osm_type": "relation"
+  },
+  "Besan\u00e7on": {
+    "osm_id": 103599,
+    "osm_type": "relation"
+  },
+  "Alappuzha": {
+    "osm_id": 3743889,
+    "osm_type": "relation"
+  },
+  "Germany, Berlin": {
+    "osm_id": 62422,
+    "osm_type": "relation"
+  },
+  "Le Puy-en-Velay Auvergne-Rh\u00f4ne-Alpes France": {
+    "osm_id": 120067,
+    "osm_type": "relation"
+  },
+  "Trinidad and Tobago": {
+    "osm_id": 555717,
+    "osm_type": "relation"
+  },
+  "Trinidad": {
+    "osm_id": 5176042,
+    "osm_type": "relation"
+  },
+  "Parque Malwee,Jaragu\u00e1 do Sul": {
+    "osm_id": 3505890,
+    "osm_type": "relation"
+  },
+  "Vlaanderen": {
+    "osm_id": 53134,
+    "osm_type": "relation"
+  },
+  "Amap\u00e1": {
+    "osm_id": 331463,
+    "osm_type": "relation"
+  },
+  "Rzesz\u00f3w": {
+    "osm_id": 2632573,
+    "osm_type": "relation"
+  },
+  "Gdynia": {
+    "osm_id": 2603248,
+    "osm_type": "relation"
+  },
+  "Andhra Pradesh": {
+    "osm_id": 2022095,
+    "osm_type": "relation"
+  },
+  "Santa Maria RS Brasil": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "PRC": {
+    "osm_id": 270056,
+    "osm_type": "relation"
+  },
+  "Remscheid": {
+    "osm_id": 11799931,
+    "osm_type": "relation"
+  },
+  "Sirinha\u00e9m": {
+    "osm_id": 303578,
+    "osm_type": "relation"
+  },
+  "Milano": {
+    "osm_id": 44915,
+    "osm_type": "relation"
+  },
+  "Rogaland": {
+    "osm_id": 405836,
+    "osm_type": "relation"
+  },
+  "Buenos Aires": {
+    "osm_id": 1224652,
+    "osm_type": "relation"
+  },
+  "Rio de Janeiro, RJ": {
+    "osm_id": 2697338,
+    "osm_type": "relation"
+  },
+  "Rio de Janeiro": {
+    "osm_id": 2697338,
+    "osm_type": "relation"
+  },
+  "Southampton": {
+    "osm_id": 127864,
+    "osm_type": "relation"
+  },
+  "norway": {
+    "osm_id": 2978650,
+    "osm_type": "relation"
+  },
+  "Blankenberge": {
+    "osm_id": 2239903,
+    "osm_type": "relation"
+  },
+  "spain": {
+    "osm_id": 1311341,
+    "osm_type": "relation"
+  },
+  "Southafrica": {
+    "osm_id": 293014994,
+    "osm_type": "way"
+  },
+  "\u010cesko": {
+    "osm_id": 51684,
+    "osm_type": "relation"
+  },
+  "\u0420\u043e\u0441\u0441\u0438\u044f_bbox": {
+    "bbox": [
+      "41.1850968",
+      "82.0586232",
+      "-180",
+      "180"
+    ]
+  },
+  "Landkreis Dahme-Spreewald": {
+    "osm_id": 62376,
+    "osm_type": "relation"
+  },
+  "Moscow,Russia": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "Oulu,Ii|Hailuoto,Kempele,Liminka,Lumijoki|Muhos,Tyrn\u00e4v\u00e4,Utaj\u00e4rvi": null,
+  "A\u00e7res": {
+    "osm_id": 6201522,
+    "osm_type": "relation"
+  },
+  "Quadra203, Residencial Oeste, Sao Sebastiao, DF": null,
+  "Czechia": {
+    "osm_id": 51684,
+    "osm_type": "relation"
+  },
+  "Sudafrica": {
+    "osm_id": 87565,
+    "osm_type": "relation"
+  },
+  "Recife": {
+    "osm_id": 303585,
+    "osm_type": "relation"
+  },
+  "Cambridge": {
+    "osm_id": 295355,
+    "osm_type": "relation"
+  },
+  "Watertown": {
+    "osm_id": 1933719,
+    "osm_type": "relation"
+  },
+  "Somerville": {
+    "osm_id": 1933746,
+    "osm_type": "relation"
+  },
+  "Charlestown": {
+    "osm_id": 2016809,
+    "osm_type": "relation"
+  },
+  "Cary": {
+    "osm_id": 179796,
+    "osm_type": "relation"
+  },
+  "Morrisville": {
+    "osm_id": 2840196,
+    "osm_type": "relation"
+  },
+  "North Carolina": {
+    "osm_id": 224045,
+    "osm_type": "relation"
+  },
+  "CHV": {
+    "osm_id": 4022982,
+    "osm_type": "relation"
+  },
+  "Bahnhofstra\u00dfe 84 59199 B\u00f6nen": {
+    "osm_id": 9391914468,
+    "osm_type": "node"
+  },
+  "Taiwan": {
+    "osm_id": 449220,
+    "osm_type": "relation"
+  },
+  "li-cesena": {
+    "osm_id": 23136471,
+    "osm_type": "way"
+  },
+  "ile de france": {
+    "osm_id": 8649,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043f\u0435\u043a\u0442 \u0412\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e": null,
+  "Weimar": {
+    "osm_id": 62493,
+    "osm_type": "relation"
+  },
+  "Adolfo Su\u00e1rez Madrid\u2013Barajas Airport": {
+    "osm_id": 167025457,
+    "osm_type": "way"
+  },
+  "Jaragu\u00e1 do Sul, Santa Catarina": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  },
+  "recycling": {
+    "osm_id": 706686938,
+    "osm_type": "way"
+  },
+  "LV-RIX": {
+    "osm_id": 13048688,
+    "osm_type": "relation"
+  },
+  "\u0421\u0438\u043c\u0444\u0435\u0440\u043e\u043f\u043e\u043b\u044c": {
+    "osm_id": 3030295,
+    "osm_type": "relation"
+  },
+  "Tobago": {
+    "osm_id": 5176041,
+    "osm_type": "relation"
+  },
+  "Arrondissement Dendermonde": {
+    "osm_id": 2523970,
+    "osm_type": "relation"
+  },
+  "Czerniewicz,Jaragu\u00e1 do Sul": {
+    "osm_id": 3499620,
+    "osm_type": "relation"
+  },
+  "Quebec": {
+    "osm_id": 61549,
+    "osm_type": "relation"
+  },
+  "South Somerset": {
+    "osm_id": 1943068,
+    "osm_type": "relation"
+  },
+  "Budapest": {
+    "osm_id": 1244004,
+    "osm_type": "relation"
+  },
+  "algeria": {
+    "osm_id": 192756,
+    "osm_type": "relation"
+  },
+  "Seignanx canton": {
+    "osm_id": 143614895,
+    "osm_type": "way"
+  },
+  "Colorado": {
+    "osm_id": 161961,
+    "osm_type": "relation"
+  },
+  "Provence-Alpes-C\u00f4te d'Azur,France": {
+    "osm_id": 8654,
+    "osm_type": "relation"
+  },
+  "Chhattisgarh": {
+    "osm_id": 1972004,
+    "osm_type": "relation"
+  },
+  "Kharkiv": {
+    "osm_id": 3154746,
+    "osm_type": "relation"
+  },
+  "Estrada Nova,Jaragu\u00e1 do Sul": {
+    "osm_id": 3502061,
+    "osm_type": "relation"
+  },
+  "Cuyahoga County, Ohio": {
+    "osm_id": 350381,
+    "osm_type": "relation"
+  },
+  "Switzerland": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Lower-Austria": {
+    "osm_id": 77189,
+    "osm_type": "relation"
+  },
+  "Nieder\u00f6sterreich": {
+    "osm_id": 77189,
+    "osm_type": "relation"
+  },
+  "Montevideo,Uruguay": {
+    "osm_id": 2929054,
+    "osm_type": "relation"
+  },
+  "Moers": {
+    "osm_id": 58623,
+    "osm_type": "relation"
+  },
+  "Bieru\u0144": {
+    "osm_id": 2828733,
+    "osm_type": "relation"
+  },
+  "Brugelette": {
+    "osm_id": 2170413,
+    "osm_type": "relation"
+  },
+  "Brugelette municipality": null,
+  "\u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f_centre": {
+    "lat": "55.7504461",
+    "lon": "37.6174943"
+  },
+  "Julijske Alpe": {
+    "osm_id": 2174015,
+    "osm_type": "relation"
+  },
+  "Iceland": {
+    "osm_id": 299133,
+    "osm_type": "relation"
+  },
+  "Brunei": {
+    "osm_id": 2103120,
+    "osm_type": "relation"
+  },
+  "Pays de la Loire": {
+    "osm_id": 8650,
+    "osm_type": "relation"
+  },
+  "Conceicao dos Ouros MG Brasil": {
+    "osm_id": 314979,
+    "osm_type": "relation"
+  },
+  "Landkreis L\u00fcneburg": {
+    "osm_id": 2084746,
+    "osm_type": "relation"
+  },
+  "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72192,
+    "osm_type": "relation"
+  },
+  "HU": {
+    "osm_id": 21335,
+    "osm_type": "relation"
+  },
+  "England, Wales, Scotland": {
+    "osm_id": 2891286721,
+    "osm_type": "node"
+  },
+  "Rhein-Neckar-Kreis": {
+    "osm_id": 62577,
+    "osm_type": "relation"
+  },
+  "Hoya de Huesca": {
+    "osm_id": 6479877,
+    "osm_type": "relation"
+  },
+  "M\u00e9tropole de Lyon": {
+    "osm_id": 4850450,
+    "osm_type": "relation"
+  },
+  "Leutersdorf": {
+    "osm_id": 418710,
+    "osm_type": "relation"
+  },
+  "Monza": {
+    "osm_id": 251419,
+    "osm_type": "relation"
+  },
+  "Digne-les-Bains,France": {
+    "osm_id": 85909,
+    "osm_type": "relation"
+  },
+  "Ecuador": {
+    "osm_id": 108089,
+    "osm_type": "relation"
+  },
+  "Kathmandu_centre": {
+    "lat": "27.708317",
+    "lon": "85.3205817"
+  },
+  "Kathmandu": {
+    "osm_id": 67157058,
+    "osm_type": "node"
+  },
+  "Communaut\u00e9 de communes Lod\u00e9vois et Larzac": {
+    "osm_id": 2167706,
+    "osm_type": "relation"
+  },
+  "Founex": {
+    "osm_id": 1684979,
+    "osm_type": "relation"
+  },
+  "Nettersheim": {
+    "osm_id": 158159,
+    "osm_type": "relation"
+  },
+  "Partido de Esteban Echeverr\u00eda": {
+    "osm_id": 2401204,
+    "osm_type": "relation"
+  },
+  "plattform": {
+    "osm_id": 4870744,
+    "osm_type": "way"
+  },
+  "Syria": {
+    "osm_id": 184840,
+    "osm_type": "relation"
+  },
+  "Landkreis Calw": {
+    "osm_id": 62601,
+    "osm_type": "relation"
+  },
+  "Sofia,Bulgaria": {
+    "osm_id": 4283101,
+    "osm_type": "relation"
+  },
+  "Sofia, Bulgaria": {
+    "osm_id": 4283101,
+    "osm_type": "relation"
+  },
+  "Strasbourg": {
+    "osm_id": 71033,
+    "osm_type": "relation"
+  },
+  "Arag\u00f3n": {
+    "osm_id": 349045,
+    "osm_type": "relation"
+  },
+  "Argentia": {
+    "osm_id": 45214,
+    "osm_type": "relation"
+  },
+  "Chattanooga_centre": {
+    "lat": "35.0457219",
+    "lon": "-85.3094883"
+  },
+  "Algeria": {
+    "osm_id": 192756,
+    "osm_type": "relation"
+  },
+  "Niteroi RJ Brasil": {
+    "osm_id": 2220789,
+    "osm_type": "relation"
+  },
+  "\u00cele-de-France": {
+    "osm_id": 8649,
+    "osm_type": "relation"
+  },
+  "Kottmar": {
+    "osm_id": 2754880,
+    "osm_type": "relation"
+  },
+  "Jaragu\u00e1 84,Jaragu\u00e1 do Sul": {
+    "osm_id": 3504667,
+    "osm_type": "relation"
+  },
+  "Jaragu\u00e184,Jaragu\u00e1 do Sul": null,
+  "Erfurt": {
+    "osm_id": 62745,
+    "osm_type": "relation"
+  },
+  "ER Argentina": {
+    "osm_id": 153551,
+    "osm_type": "relation"
+  },
+  "Sacramento County": {
+    "osm_id": 396460,
+    "osm_type": "relation"
+  },
+  "Rwanda": {
+    "osm_id": 171496,
+    "osm_type": "relation"
+  },
+  "mexico": {
+    "osm_id": 114686,
+    "osm_type": "relation"
+  },
+  "Mexico": {
+    "osm_id": 114686,
+    "osm_type": "relation"
+  },
+  "Hessen": {
+    "osm_id": 62650,
+    "osm_type": "relation"
+  },
+  "Ernakulam district": {
+    "osm_id": 3740342,
+    "osm_type": "relation"
+  },
+  "Eidskog": {
+    "osm_id": 412533,
+    "osm_type": "relation"
+  },
+  "Eidkog": null,
+  "Prosek": {
+    "osm_id": 434448,
+    "osm_type": "relation"
+  },
+  "\u0427\u0435\u0440\u043d\u0456\u0433\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71249,
+    "osm_type": "relation"
+  },
+  "\u041a\u0438\u0457\u0432": {
+    "osm_id": 421866,
+    "osm_type": "relation"
+  },
+  "C\u00f3rdoba": {
+    "osm_id": 343207,
+    "osm_type": "relation"
+  },
+  "Krak\u00f3w": {
+    "osm_id": 449696,
+    "osm_type": "relation"
+  },
+  "Schmelz": {
+    "osm_id": 1184564,
+    "osm_type": "relation"
+  },
+  "bonn": {
+    "osm_id": 62508,
+    "osm_type": "relation"
+  },
+  "Calabarzon": {
+    "osm_id": 1552120,
+    "osm_type": "relation"
+  },
+  "Cagayan Valley": {
+    "osm_id": 1552192,
+    "osm_type": "relation"
+  },
+  "Cordillera Administrative Region": {
+    "osm_id": 1552190,
+    "osm_type": "relation"
+  },
+  "\u5c4f\u6771\u7e23": {
+    "osm_id": 2775815,
+    "osm_type": "relation"
+  },
+  "Texas": {
+    "osm_id": 114690,
+    "osm_type": "relation"
+  },
+  "\u65b0\u5317\u5e02": {
+    "osm_id": 1527220,
+    "osm_type": "relation"
+  },
+  "tchad": {
+    "osm_id": 2361304,
+    "osm_type": "relation"
+  },
+  "Chad": {
+    "osm_id": 2361304,
+    "osm_type": "relation"
+  },
+  "Bath & North East Somerset": {
+    "osm_id": 5342409,
+    "osm_type": "relation"
+  },
+  "10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,_centre": null,
+  "\u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71254,
+    "osm_type": "relation"
+  },
+  "Municipio de Ober\u00e1": {
+    "osm_id": 3210796,
+    "osm_type": "relation"
+  },
+  "Europe": {
+    "osm_id": 25871341,
+    "osm_type": "node"
+  },
+  "germany": {
+    "osm_id": 51477,
+    "osm_type": "relation"
+  },
+  "Lavis": {
+    "osm_id": 46912,
+    "osm_type": "relation"
+  },
+  "Resistencia": {
+    "osm_id": 1572779,
+    "osm_type": "relation"
+  },
+  "USA": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "usa": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "Cluj": {
+    "osm_id": 3277038,
+    "osm_type": "relation"
+  },
+  "Marilia SP Brasil": {
+    "osm_id": 298306,
+    "osm_type": "relation"
+  },
+  "Odisha": {
+    "osm_id": 1984022,
+    "osm_type": "relation"
+  },
+  "Provincia di Biella": {
+    "osm_id": 44913,
+    "osm_type": "relation"
+  },
+  "IRTRAMMA": {
+    "osm_id": 2627908,
+    "osm_type": "relation"
+  },
+  "Wroclaw": {
+    "osm_id": 451516,
+    "osm_type": "relation"
+  },
+  "\u0422\u044e\u043c\u0435\u043d\u044c": {
+    "osm_id": 2049854,
+    "osm_type": "relation"
+  },
+  "\u041e\u0434\u0435\u0441\u0430": {
+    "osm_id": 1413934,
+    "osm_type": "relation"
+  },
+  "Stadt Herrnhut": {
+    "osm_id": 418716,
+    "osm_type": "relation"
+  },
+  "Napoli": {
+    "osm_id": 40767,
+    "osm_type": "relation"
+  },
+  "oneway": {
+    "osm_id": 3162396430,
+    "osm_type": "node"
+  },
+  "macei\u00f3, brazil": {
+    "osm_id": 303815,
+    "osm_type": "relation"
+  },
+  "Bad Reichenhall": {
+    "osm_id": 941794,
+    "osm_type": "relation"
+  },
+  "Carcassonne": {
+    "osm_id": 37774,
+    "osm_type": "relation"
+  },
+  "Hassan": {
+    "osm_id": 340748436,
+    "osm_type": "node"
+  },
+  "Kottayam": {
+    "osm_id": 3743996,
+    "osm_type": "relation"
+  },
+  "\u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71245,
+    "osm_type": "relation"
+  },
+  "Georgia,US": {
+    "osm_id": 161957,
+    "osm_type": "relation"
+  },
+  "Utah": {
+    "osm_id": 161993,
+    "osm_type": "relation"
+  },
+  "Castrola": {
+    "osm_id": 9422513416,
+    "osm_type": "node"
+  },
+  "Bruxelles": {
+    "osm_id": 58274,
+    "osm_type": "relation"
+  },
+  "Departamento de Ayacucho": {
+    "osm_id": 1930901,
+    "osm_type": "relation"
+  },
+  "Hagen": {
+    "osm_id": 1800297,
+    "osm_type": "relation"
+  },
+  "Saint-Maur-des-Foss\u00e9s": {
+    "osm_id": 50964,
+    "osm_type": "relation"
+  },
+  "Lombardia": {
+    "osm_id": 44879,
+    "osm_type": "relation"
+  },
+  "bergen": {
+    "osm_id": 404159,
+    "osm_type": "relation"
+  },
+  "china": {
+    "osm_id": 270056,
+    "osm_type": "relation"
+  },
+  "Bihar": {
+    "osm_id": 1958982,
+    "osm_type": "relation"
+  },
+  "bielefeld": {
+    "osm_id": 62646,
+    "osm_type": "relation"
+  },
+  "Bielefeld": {
+    "osm_id": 62646,
+    "osm_type": "relation"
+  },
+  "China": {
+    "osm_id": 270056,
+    "osm_type": "relation"
+  },
+  "Andalucia": {
+    "osm_id": 349044,
+    "osm_type": "relation"
+  },
+  "Ruhrgebiet": {
+    "osm_id": 1800298,
+    "osm_type": "relation"
+  },
+  "Casamassima": {
+    "osm_id": 40888,
+    "osm_type": "relation"
+  },
+  "brandenburg": {
+    "osm_id": 62504,
+    "osm_type": "relation"
+  },
+  "Andrest": {
+    "osm_id": 162409,
+    "osm_type": "relation"
+  },
+  "Orrest": {
+    "osm_id": 733864897,
+    "osm_type": "way"
+  },
+  "Belize": {
+    "osm_id": 287827,
+    "osm_type": "relation"
+  },
+  "Val\u00e8ncia": {
+    "osm_id": 344953,
+    "osm_type": "relation"
+  },
+  "\u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 101859,
+    "osm_type": "relation"
+  },
+  "France m\u00e9tropolitaine": {
+    "osm_id": 1403916,
+    "osm_type": "relation"
+  },
+  "Mitte, Berlin": {
+    "osm_id": 16566,
+    "osm_type": "relation"
+  },
+  "Telgte": {
+    "osm_id": 152290,
+    "osm_type": "relation"
+  },
+  "santo amaro, Recife": {
+    "osm_id": 4264913,
+    "osm_type": "relation"
+  },
+  "santo amaro,recife": {
+    "osm_id": 4264913,
+    "osm_type": "relation"
+  },
+  "Parc naturel r\u00e9gional Normandie-Maine": {
+    "osm_id": 3493867,
+    "osm_type": "relation"
+  },
+  "Freiberg": {
+    "osm_id": 416561,
+    "osm_type": "relation"
+  },
+  "Los Angeles": {
+    "osm_id": 207359,
+    "osm_type": "relation"
+  },
+  "El Salvador": {
+    "osm_id": 1520612,
+    "osm_type": "relation"
+  },
+  "Zambia": {
+    "osm_id": 195271,
+    "osm_type": "relation"
+  },
+  "Veneto": {
+    "osm_id": 43648,
+    "osm_type": "relation"
+  },
+  "DZ": {
+    "osm_id": 192756,
+    "osm_type": "relation"
+  },
+  "santa catarina": {
+    "osm_id": 296584,
+    "osm_type": "relation"
+  },
+  "Nigeria": {
+    "osm_id": 192787,
+    "osm_type": "relation"
+  },
+  "Togo": {
+    "osm_id": 192782,
+    "osm_type": "relation"
+  },
+  "Francea Nigeria": null,
+  "Nordrhein Westfalen": {
+    "osm_id": 62761,
+    "osm_type": "relation"
+  },
+  "Cajueiro Seco Jaboat\u00e3o dos Guararapes_centre": {
+    "lat": "-8.1708244",
+    "lon": "-34.9302827"
+  },
+  "Bordeaux": {
+    "osm_id": 105270,
+    "osm_type": "relation"
+  },
+  "Guangdong": {
+    "osm_id": 911844,
+    "osm_type": "relation"
+  },
+  "Nederlands Limburg": {
+    "osm_id": 47793,
+    "osm_type": "relation"
+  },
+  "Oost-Vlaanderen": {
+    "osm_id": 53135,
+    "osm_type": "relation"
+  },
+  "Andijon Viloyati": {
+    "osm_id": 178016,
+    "osm_type": "relation"
+  },
+  "Rh\u00f4ne-Alpes": {
+    "osm_id": 8655,
+    "osm_type": "relation"
+  },
+  "Rio Cerro I,Jaragu\u00e1 do Sul": {
+    "osm_id": 3504682,
+    "osm_type": "relation"
+  },
+  "netherlands": {
+    "osm_id": 47796,
+    "osm_type": "relation"
+  },
+  "Nagaland": {
+    "osm_id": 2027973,
+    "osm_type": "relation"
+  },
+  "Provence-Alpes-C\u00f4te d'Azur": {
+    "osm_id": 8654,
+    "osm_type": "relation"
+  },
+  "Bognor Regis, England,UK": {
+    "osm_id": 2960701,
+    "osm_type": "relation"
+  },
+  "Potsdam": {
+    "osm_id": 62369,
+    "osm_type": "relation"
+  },
+  "Tr\u00eas Rios do Sul,Jaragu\u00e1 do Sul": {
+    "osm_id": 3498972,
+    "osm_type": "relation"
+  },
+  "S\u00fcdtirol": {
+    "osm_id": 47046,
+    "osm_type": "relation"
+  },
+  "Burggrafenamt": {
+    "osm_id": 6536521,
+    "osm_type": "relation"
+  },
+  "Caen": {
+    "osm_id": 149197,
+    "osm_type": "relation"
+  },
+  "Milan": {
+    "osm_id": 44915,
+    "osm_type": "relation"
+  },
+  "Misiones, AR": {
+    "osm_id": 153553,
+    "osm_type": "relation"
+  },
+  "Meghalaya": {
+    "osm_id": 2027521,
+    "osm_type": "relation"
+  },
+  "Curado II Jaboat\u00e3o_centre": {
+    "lat": "-8.0781697",
+    "lon": "-34.9984342"
+  },
+  "Curado II Jaboat\u00e3o": {
+    "osm_id": 460530276,
+    "osm_type": "way"
+  },
+  "Urban Communaut\u00e9 de Bordeaux": null,
+  "Beykoz;G\u00fcm\u00fc\u015fsuyu Mahallesi": {
+    "osm_id": 9493939,
+    "osm_type": "relation"
+  },
+  "G\u00fcm\u00fc\u015fsuyu Mahallesi": {
+    "osm_id": 7982395,
+    "osm_type": "relation"
+  },
+  "L\u00fcdersdorf": {
+    "osm_id": 1479258,
+    "osm_type": "relation"
+  },
+  "lome": {
+    "osm_id": 6607308,
+    "osm_type": "relation"
+  },
+  "Lome": {
+    "osm_id": 6607308,
+    "osm_type": "relation"
+  },
+  "Croatia": {
+    "osm_id": 214885,
+    "osm_type": "relation"
+  },
+  "Ukraina": {
+    "osm_id": 60199,
+    "osm_type": "relation"
+  },
+  "paraguay": {
+    "osm_id": 287077,
+    "osm_type": "relation"
+  },
+  "Prince Edward Island": {
+    "osm_id": 3958665,
+    "osm_type": "relation"
+  },
+  "BCP": {
+    "osm_id": 24169566,
+    "osm_type": "way"
+  },
+  "Jonsdorf": {
+    "osm_id": 418118,
+    "osm_type": "relation"
+  },
+  "powiat choszcze\u0144ski": {
+    "osm_id": 2642274,
+    "osm_type": "relation"
+  },
+  "Hannover": {
+    "osm_id": 59418,
+    "osm_type": "relation"
+  },
+  "H\u00e9rault": {
+    "osm_id": 7429,
+    "osm_type": "relation"
+  },
+  "Weserstra\u00dfe": {
+    "osm_id": 25893033,
+    "osm_type": "way"
+  },
+  "cambodia": {
+    "osm_id": 49898,
+    "osm_type": "relation"
+  },
+  "Cambodia": {
+    "osm_id": 49898,
+    "osm_type": "relation"
+  },
+  "South Holland": {
+    "osm_id": 47772,
+    "osm_type": "relation"
+  },
+  "City of Edinburgh": {
+    "osm_id": 1920901,
+    "osm_type": "relation"
+  },
+  "Muslemic": null,
+  "United States of America": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "M\u00f8re og Romsdal": {
+    "osm_id": 406868,
+    "osm_type": "relation"
+  },
+  "iceland": {
+    "osm_id": 299133,
+    "osm_type": "relation"
+  },
+  "\u81fa\u4e2d\u5e02": {
+    "osm_id": 2921154,
+    "osm_type": "relation"
+  },
+  "Wallonia": {
+    "osm_id": 90348,
+    "osm_type": "relation"
+  },
+  "567521261_centre": null,
+  "Den Haag": {
+    "osm_id": 192737,
+    "osm_type": "relation"
+  },
+  "Boulder": {
+    "osm_id": 112298,
+    "osm_type": "relation"
+  },
+  "Boulder municipality": {
+    "osm_id": 1416062986,
+    "osm_type": "node"
+  },
+  "Rehden": {
+    "osm_id": 1588114,
+    "osm_type": "relation"
+  },
+  "Universidade Federal de Santa Maria,Santa Maria,RS": {
+    "osm_id": 2429423,
+    "osm_type": "relation"
+  },
+  "Cologne": {
+    "osm_id": 62578,
+    "osm_type": "relation"
+  },
+  "Rio Grande do Sul, Brasil": {
+    "osm_id": 242620,
+    "osm_type": "relation"
+  },
+  "Alameda County": {
+    "osm_id": 396499,
+    "osm_type": "relation"
+  },
+  "Palakkad": {
+    "osm_id": 1819321,
+    "osm_type": "relation"
+  },
+  "Santa Cruz de Tenerife": {
+    "osm_id": 340727,
+    "osm_type": "relation"
+  },
+  "Rila": {
+    "osm_id": 8391832700,
+    "osm_type": "node"
+  },
+  "Almeida, Colombia": {
+    "osm_id": 1353242,
+    "osm_type": "relation"
+  },
+  "Comuna 12 buenos aires": {
+    "osm_id": 4239028,
+    "osm_type": "relation"
+  },
+  "Ribeir\u00e3o Cavalo,Jaragu\u00e1 do Sul": {
+    "osm_id": 3497546,
+    "osm_type": "relation"
+  },
+  "K\u0117dainiai": {
+    "osm_id": 1369582,
+    "osm_type": "relation"
+  },
+  "Kaisersbach": {
+    "osm_id": 400937,
+    "osm_type": "relation"
+  },
+  "\u5609\u7fa9\u7e23": {
+    "osm_id": 2908173,
+    "osm_type": "relation"
+  },
+  "biskra": {
+    "osm_id": 1280072,
+    "osm_type": "relation"
+  },
+  "setif": {
+    "osm_id": 1617602,
+    "osm_type": "relation"
+  },
+  "bejaia": {
+    "osm_id": 2094122,
+    "osm_type": "relation"
+  },
+  "bikra": {
+    "osm_id": 5057989331,
+    "osm_type": "node"
+  },
+  "finnish": {
+    "osm_id": 122595207,
+    "osm_type": "way"
+  },
+  "turku": {
+    "osm_id": 399906,
+    "osm_type": "relation"
+  },
+  "Turku": {
+    "osm_id": 399906,
+    "osm_type": "relation"
+  },
+  "Dharan": {
+    "osm_id": 817072708,
+    "osm_type": "node"
+  },
+  "alcudia": {
+    "osm_id": 347549,
+    "osm_type": "relation"
+  },
+  "Aachen": {
+    "osm_id": 62564,
+    "osm_type": "relation"
+  },
+  "Metro Manila": {
+    "osm_id": 147488,
+    "osm_type": "relation"
+  },
+  "Manila": {
+    "osm_id": 103703,
+    "osm_type": "relation"
+  },
+  "San Luis": {
+    "osm_id": 153538,
+    "osm_type": "relation"
+  },
+  "Belem PA Brasil": {
+    "osm_id": 185567,
+    "osm_type": "relation"
+  },
+  "Stockholms kommun": {
+    "osm_id": 398021,
+    "osm_type": "relation"
+  },
+  "Olomouc, Czech Republic": {
+    "osm_id": 437057,
+    "osm_type": "relation"
+  },
+  "Udine_centre": {
+    "lat": "46.0634632",
+    "lon": "13.2358377"
+  },
+  "\u0420\u0430\u0434\u0438\u0432\u043e\u043d\u0456\u0432\u0441\u044c\u043a\u0430 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430": {
+    "osm_id": 8838471,
+    "osm_type": "relation"
+  },
+  "\u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72489,
+    "osm_type": "relation"
+  },
+  "serbia": {
+    "osm_id": 1741311,
+    "osm_type": "relation"
+  },
+  "Serbia": {
+    "osm_id": 1741311,
+    "osm_type": "relation"
+  },
+  "Berne": {
+    "osm_id": 1682378,
+    "osm_type": "relation"
+  },
+  "Morocco": {
+    "osm_id": 3630439,
+    "osm_type": "relation"
+  },
+  "Huatusco": {
+    "osm_id": 6037677,
+    "osm_type": "relation"
+  },
+  "Berliner Urstromtal": {
+    "osm_id": 2218270,
+    "osm_type": "relation"
+  },
+  "Telangana": {
+    "osm_id": 3250963,
+    "osm_type": "relation"
+  },
+  "CHKO Moravsk\u00fd kras": {
+    "osm_id": 2022068,
+    "osm_type": "relation"
+  },
+  "jaragua do sul": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  },
+  "map_to_area": null,
+  "Bath and North East Somerset, UK": {
+    "osm_id": 81941,
+    "osm_type": "relation"
+  },
+  "North West Vlaanderen": {
+    "osm_id": 1769983355,
+    "osm_type": "node"
+  },
+  "Huston": {
+    "osm_id": 2688911,
+    "osm_type": "relation"
+  },
+  "TamilNadu": {
+    "osm_id": 96905,
+    "osm_type": "relation"
+  },
+  "Rio Grande do Sul": {
+    "osm_id": 242620,
+    "osm_type": "relation"
+  },
+  "Maharashtra": {
+    "osm_id": 1950884,
+    "osm_type": "relation"
+  },
+  "Citt\u00e0 Metropolitana di Bologna": {
+    "osm_id": 42856,
+    "osm_type": "relation"
+  },
+  "austria": {
+    "osm_id": 16239,
+    "osm_type": "relation"
+  },
+  "Bangalore": {
+    "osm_id": 7902476,
+    "osm_type": "relation"
+  },
+  "Spain": {
+    "osm_id": 1311341,
+    "osm_type": "relation"
+  },
+  "\u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 72526,
+    "osm_type": "relation"
+  },
+  "Espelkamp": {
+    "osm_id": 145253,
+    "osm_type": "relation"
+  },
+  "Turquie": {
+    "osm_id": 174737,
+    "osm_type": "relation"
+  },
+  "\u0421\u0443\u043c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71250,
+    "osm_type": "relation"
+  },
+  "Denver_centre": {
+    "lat": "39.7392364",
+    "lon": "-104.984862"
+  },
+  "Cohab,recife": {
+    "osm_id": 9683859,
+    "osm_type": "relation"
+  },
+  "JAMMU AND KASHMIR": {
+    "osm_id": 1943188,
+    "osm_type": "relation"
+  },
+  "JAMMU": {
+    "osm_id": 1685767121,
+    "osm_type": "node"
+  },
+  "Manipur": {
+    "osm_id": 2027869,
+    "osm_type": "relation"
+  },
+  "salford": {
+    "osm_id": 146657,
+    "osm_type": "relation"
+  },
+  "paris": {
+    "osm_id": 7444,
+    "osm_type": "relation"
+  },
+  "Chico de Paulo,Jaragu\u00e1 do Sul": {
+    "osm_id": 3502060,
+    "osm_type": "relation"
+  },
+  "Andaman and Nicobar Islands": {
+    "osm_id": 2025855,
+    "osm_type": "relation"
+  },
+  "Andaman": {
+    "osm_id": 316417003,
+    "osm_type": "node"
+  },
+  "Lecce": {
+    "osm_id": 40094,
+    "osm_type": "relation"
+  },
+  "salamanca": {
+    "osm_id": 344342,
+    "osm_type": "relation"
+  },
+  "Badalona": {
+    "osm_id": 347954,
+    "osm_type": "relation"
+  },
+  "Dar es Salaam": {
+    "osm_id": 7202037,
+    "osm_type": "relation"
+  },
+  "Guadeloupe": {
+    "osm_id": 1047206,
+    "osm_type": "relation"
+  },
+  "Heidelberg": {
+    "osm_id": 285864,
+    "osm_type": "relation"
+  },
+  "Municipio de Funes,AR": {
+    "osm_id": 3368049,
+    "osm_type": "relation"
+  },
+  "Soliera": {
+    "osm_id": 43525,
+    "osm_type": "relation"
+  },
+  "Ivory Coast and Senegal": null,
+  "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439": {
+    "osm_id": 108082,
+    "osm_type": "relation"
+  },
+  "Krasnodar region": {
+    "osm_id": 7373058,
+    "osm_type": "relation"
+  },
+  "Languedoc-Roussillon": {
+    "osm_id": 8643,
+    "osm_type": "relation"
+  },
+  "Rennes": {
+    "osm_id": 54517,
+    "osm_type": "relation"
+  },
+  "rennes": {
+    "osm_id": 54517,
+    "osm_type": "relation"
+  },
+  "landkreis Bayreuth": {
+    "osm_id": 62378,
+    "osm_type": "relation"
+  },
+  "Landkreis Bayreuth": {
+    "osm_id": 62378,
+    "osm_type": "relation"
+  },
+  "switzerland": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Worcester, Massachusetts": {
+    "osm_id": 1844209,
+    "osm_type": "relation"
+  },
+  "ostfildern": {
+    "osm_id": 2793022,
+    "osm_type": "relation"
+  },
+  "Ostfildern": {
+    "osm_id": 2793022,
+    "osm_type": "relation"
+  },
+  "Vas megye": {
+    "osm_id": 22250,
+    "osm_type": "relation"
+  },
+  "Porto Velho Rond\u00f4nia Brasil": {
+    "osm_id": 325855,
+    "osm_type": "relation"
+  },
+  "Montefino": {
+    "osm_id": 42079,
+    "osm_type": "relation"
+  },
+  "Regierungsbezirk Oberfranken": {
+    "osm_id": 17592,
+    "osm_type": "relation"
+  },
+  "Formosa, Argentina": {
+    "osm_id": 2849847,
+    "osm_type": "relation"
+  },
+  "B\u00fcrggen": {
+    "osm_id": 936754,
+    "osm_type": "relation"
+  },
+  "Barcelona": {
+    "osm_id": 347950,
+    "osm_type": "relation"
+  },
+  "Rastatt": {
+    "osm_id": 907178,
+    "osm_type": "relation"
+  },
+  "Sarnen": {
+    "osm_id": 1683100,
+    "osm_type": "relation"
+  },
+  "New Caledonia": {
+    "osm_id": 3407643,
+    "osm_type": "relation"
+  },
+  "\u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 91278,
+    "osm_type": "relation"
+  },
+  "748213,5.522851_centre": null,
+  "Haute-Garonne": {
+    "osm_id": 7413,
+    "osm_type": "relation"
+  },
+  "AT": {
+    "osm_id": 16239,
+    "osm_type": "relation"
+  },
+  "Rhone-Alpes": {
+    "osm_id": 8655,
+    "osm_type": "relation"
+  },
+  "Split": {
+    "osm_id": 11153757,
+    "osm_type": "relation"
+  },
+  "England": {
+    "osm_id": 58447,
+    "osm_type": "relation"
+  },
+  "Wales": {
+    "osm_id": 58437,
+    "osm_type": "relation"
+  },
+  "sofia": {
+    "osm_id": 4346498378,
+    "osm_type": "node"
+  },
+  "Chattanooga": {
+    "osm_id": 197273,
+    "osm_type": "relation"
+  },
+  "Digne-les-Bains, France": {
+    "osm_id": 85909,
+    "osm_type": "relation"
+  },
+  "Bonn": {
+    "osm_id": 62508,
+    "osm_type": "relation"
+  },
+  "Calabarzon, Cagayan Valley": null,
+  "Resist\u00e8ncia": {
+    "osm_id": 1572779,
+    "osm_type": "relation"
+  },
+  "Hampshire, United Kingdom": {
+    "osm_id": 2698314,
+    "osm_type": "relation"
+  },
+  "C arcassonne": null,
+  "Schloss": {
+    "osm_id": 282473356,
+    "osm_type": "node"
+  },
+  "Hassan district": {
+    "osm_id": 2020605,
+    "osm_type": "relation"
+  },
+  "Georgia, US": {
+    "osm_id": 161957,
+    "osm_type": "relation"
+  },
+  "gmina Choszczno": {
+    "osm_id": 2896018,
+    "osm_type": "relation"
+  },
+  "rest": {
+    "osm_id": 6566540,
+    "osm_type": "relation"
+  },
+  "Frrica Nigeria": null,
+  "Cajueiro Seco Jaboat\u00e3o dos Guararapes": {
+    "osm_id": 9631681,
+    "osm_type": "relation"
+  },
+  "bordeaux": {
+    "osm_id": 105270,
+    "osm_type": "relation"
+  },
+  "Nantes M\u00e9tropole": {
+    "osm_id": 1651641984,
+    "osm_type": "node"
+  },
+  "Oost - Vlaanderen": {
+    "osm_id": 53135,
+    "osm_type": "relation"
+  },
+  "Eixample": {
+    "osm_id": 3008998,
+    "osm_type": "relation"
+  },
+  "Bognor Regis": {
+    "osm_id": 2960701,
+    "osm_type": "relation"
+  },
+  "Recsdam": null,
+  "Misiones,AR": {
+    "osm_id": 153553,
+    "osm_type": "relation"
+  },
+  "Urban Community of Bordeaux": null,
+  "Grad Vodnjan": {
+    "osm_id": 2277597,
+    "osm_type": "relation"
+  },
+  "Sardegna": {
+    "osm_id": 7361997,
+    "osm_type": "relation"
+  },
+  "Weserstra\u00dfe.12045 Berlin": {
+    "osm_id": 36738527,
+    "osm_type": "way"
+  },
+  "Edinburgh": {
+    "osm_id": 1920901,
+    "osm_type": "relation"
+  },
+  "Universidade Federal de Santa Maria,Santa Maria": {
+    "osm_id": 2429423,
+    "osm_type": "relation"
+  },
+  "Weesp, Gooise Meren, Huizen, Blaricum, Laren, Hilversum, Wijdemeren": null,
+  "Comuna12 buenos aires": null,
+  "Finnish": {
+    "osm_id": 122595207,
+    "osm_type": "way"
+  },
+  "Olomouc": {
+    "osm_id": 437057,
+    "osm_type": "relation"
+  },
+  "CHKO Moravsk\u00fd krasil": null,
+  "Denver": {
+    "osm_id": 1411339,
+    "osm_type": "relation"
+  },
+  "Stadis": {
+    "osm_id": 9887964258,
+    "osm_type": "node"
+  },
+  "USa": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "Ivory Coast": {
+    "osm_id": 192779,
+    "osm_type": "relation"
+  },
+  "Krasnodar": {
+    "osm_id": 108082,
+    "osm_type": "relation"
+  },
+  "Worcester,MA": {
+    "osm_id": 1844209,
+    "osm_type": "relation"
+  },
+  "\u0421\u043e\u0444\u0438\u044f": {
+    "osm_id": 4283101,
+    "osm_type": "relation"
+  },
+  "B\u00fcrggen Kreis Viersen": null,
+  "Arcueil": {
+    "osm_id": 103967,
+    "osm_type": "relation"
+  },
+  " Quadra203": null,
+  "10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,_centre": null,
+  "Plana de Uesca": {
+    "osm_id": 6479877,
+    "osm_type": "relation"
+  },
+  "brasil": {
+    "osm_id": 59470,
+    "osm_type": "relation"
+  },
+  "Piedmont": {
+    "osm_id": 44874,
+    "osm_type": "relation"
+  },
+  "Sofia": {
+    "osm_id": 4346498378,
+    "osm_type": "node"
+  },
+  "Predrola": null,
+  "Africa Nigeria": {
+    "osm_id": 192787,
+    "osm_type": "relation"
+  },
+  "Bognor Regis, England": {
+    "osm_id": 2960701,
+    "osm_type": "relation"
+  },
+  "Argentine Antarctica": {
+    "osm_id": 3394110,
+    "osm_type": "relation"
+  },
+  "Boulder municipio de Colorado": null,
+  "El Rosario": {
+    "osm_id": 340729,
+    "osm_type": "relation"
+  },
+  "pharmacy": {
+    "osm_id": 34197140,
+    "osm_type": "way"
+  },
+  "school": {
+    "osm_id": 9436023603,
+    "osm_type": "node"
+  },
+  "\u0412\u0438\u043d\u0456\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 170241513,
+    "osm_type": "way"
+  },
+  "North West of Florida, USA": {
+    "osm_id": 10799897,
+    "osm_type": "way"
+  },
+  "Lawer Sachsen": null,
+  "Nicobar Islands": {
+    "osm_id": 9493294,
+    "osm_type": "relation"
+  },
+  "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": {
+    "osm_id": 46887186,
+    "osm_type": "way"
+  },
+  "Ipe\u00fana_centre": {
+    "lat": "-22.4356582",
+    "lon": "-47.7146714"
+  },
+  "VR": {
+    "osm_id": 44107,
+    "osm_type": "relation"
+  },
+  "Israel": {
+    "osm_id": 1473946,
+    "osm_type": "relation"
+  },
+  "Aiglun, Digne-les-Bains, Alpes-de-Haute-Provence,Provence-Alpes-C\u00f4te d'Azur, France m\u00e9tropolitaine, 04510, France": {
+    "osm_id": 1999649,
+    "osm_type": "relation"
+  },
+  "\u0440\u0430\u0439\u043e\u043d \u041a\u0430\u0440\u0430\u0447\u0430\u0435\u0432\u043e-\u0427\u0435\u0440\u043a\u0435\u0441\u0438\u044f": {
+    "osm_id": 445739701,
+    "osm_type": "way"
+  },
+  "Moscow, Russia": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u043c\u043e\u043c\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Burgas": {
+    "osm_id": 344165,
+    "osm_type": "relation"
+  },
+  "Cary and Morrisville, North Carolina": null,
+  "\u0421\u0430\u0445\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 394235,
+    "osm_type": "relation"
+  },
+  "Mbeya": {
+    "osm_id": 1600771,
+    "osm_type": "relation"
+  },
+  "malaysia": {
+    "osm_id": 2108121,
+    "osm_type": "relation"
+  },
+  "CH VS": {
+    "osm_id": 1686699,
+    "osm_type": "relation"
+  },
+  "Eindhoven": {
+    "osm_id": 296014,
+    "osm_type": "relation"
+  },
+  "Veldhoven": {
+    "osm_id": 296015,
+    "osm_type": "relation"
+  },
+  "fvg": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "Sufa Crossing": null,
+  "D\u00fcren": {
+    "osm_id": 163046,
+    "osm_type": "relation"
+  },
+  "RS": {
+    "osm_id": 1741311,
+    "osm_type": "relation"
+  },
+  "Schleswig-Holstein": {
+    "osm_id": 51529,
+    "osm_type": "relation"
+  },
+  "Jodoigne|Perwez|Beauvechain| Incourt|H\u00e9l\u00e9cine|Orp-Jauche|Ramillies": null,
+  "\u041c\u0438\u043d\u0441\u043a": {
+    "osm_id": 59195,
+    "osm_type": "relation"
+  },
+  "Ant\u00e1rtida Argentina": {
+    "osm_id": 3394110,
+    "osm_type": "relation"
+  },
+  "Oulu,Ii,Hailuoto,Kempele,Liminka,Lumijoki,Muhos,Tyrn\u00e4v\u00e4,Utaj\u00e4rvi": null,
+  "city": {
+    "osm_id": 7608159,
+    "osm_type": "relation"
+  },
+  "dresden": {
+    "osm_id": 191645,
+    "osm_type": "relation"
+  },
+  "Munich grouped": null,
+  "Haustria": {
+    "osm_id": 136851619,
+    "osm_type": "way"
+  },
+  "way121702955": null,
+  "2017": {
+    "osm_id": 6280369857,
+    "osm_type": "node"
+  },
+  "Cary and Morrisville": {
+    "osm_id": 378397242,
+    "osm_type": "way"
+  },
+  "Karlo varsky": null,
+  "Saint-Paul-l\u00e8s-Dax": {
+    "osm_id": 75876,
+    "osm_type": "relation"
+  },
+  "Bahnhofstra\u00dfe": {
+    "osm_id": 332455374,
+    "osm_type": "way"
+  },
+  "Warsaw": {
+    "osm_id": 336075,
+    "osm_type": "relation"
+  },
+  "\u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0412\u0435\u0440\u043d\u0430\u0434\u0441\u043a\u043e\u0433\u043e": {
+    "osm_id": 349930322,
+    "osm_type": "node"
+  },
+  "rolim de Moura": {
+    "osm_id": 325876,
+    "osm_type": "relation"
+  },
+  "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c": {
+    "osm_id": 72525,
+    "osm_type": "relation"
+  },
+  "Lz-RIX": null,
+  "wikidata": {
+    "osm_id": 11982235,
+    "osm_type": "relation"
+  },
+  "bunker golf": {
+    "osm_id": 1085123558,
+    "osm_type": "way"
+  },
+  "Saint-Pierre-des-Nid": null,
+  "Jodoigne, Perwez, Beauvechain, Incourt, H\u00e9l\u00e9cine, Orp-Jauche": null,
+  "Aiglun, Digne-les-Bains, Alpes-de-Haute-Provence,Provence-Alpes-C\u00f4te d'Azur": {
+    "osm_id": 1999649,
+    "osm_type": "relation"
+  },
+  "Benches": {
+    "osm_id": 486995460,
+    "osm_type": "way"
+  },
+  "Villenave-d'Ornon": {
+    "osm_id": 105273,
+    "osm_type": "relation"
+  },
+  "fontenay-aux-Roses": {
+    "osm_id": 37021,
+    "osm_type": "relation"
+  },
+  "Oulu,Ii,Hailuoto,Kempele,Liminka,Lumijoki|Muhos,Tyrn\u00e4v\u00e4|Utaj\u00e4rvi": null,
+  "December": {
+    "osm_id": 3041545935,
+    "osm_type": "node"
+  },
+  "Munich": {
+    "osm_id": 62428,
+    "osm_type": "relation"
+  },
+  "Khamovniki District": {
+    "osm_id": 1255987,
+    "osm_type": "relation"
+  },
+  "121702955": null,
+  "Lvia": {
+    "osm_id": 3081932382,
+    "osm_type": "node"
+  },
+  "obhab Fern Fern Ferrari": null,
+  "italy": {
+    "osm_id": 365331,
+    "osm_type": "relation"
+  },
+  "Bicycle": {
+    "osm_id": 3468108590,
+    "osm_type": "node"
+  },
+  "S\u00c3O FRANCISCO DO Sul SC Brasil": {
+    "osm_id": 296696,
+    "osm_type": "relation"
+  },
+  "Luxemburg": {
+    "osm_id": 2171347,
+    "osm_type": "relation"
+  },
+  "Recycling": {
+    "osm_id": 706686938,
+    "osm_type": "way"
+  },
+  "\u041a\u0438\u0457\u0437\u0434|\u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430|\u043c\u0456\u0441\u0442\u044c": null,
+  "Sindelfingen": {
+    "osm_id": 722092,
+    "osm_type": "relation"
+  },
+  "remscheid": {
+    "osm_id": 11799931,
+    "osm_type": "relation"
+  },
+  "10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000_centre": null,
+  "andrest": {
+    "osm_id": 162409,
+    "osm_type": "relation"
+  },
+  "Communaut\u00e9 de communes du Bordeaux": {
+    "osm_id": 1637776,
+    "osm_type": "relation"
+  },
+  "Weesp": {
+    "osm_id": 15419242,
+    "osm_type": "relation"
+  },
+  "Gooise Meren": {
+    "osm_id": 5816820,
+    "osm_type": "relation"
+  },
+  "Huizen": {
+    "osm_id": 158166,
+    "osm_type": "relation"
+  },
+  "Blaricum": {
+    "osm_id": 144822,
+    "osm_type": "relation"
+  },
+  "Laren": {
+    "osm_id": 271107,
+    "osm_type": "relation"
+  },
+  "Hilversum": {
+    "osm_id": 419190,
+    "osm_type": "relation"
+  },
+  "Wijdemeren": {
+    "osm_id": 419534,
+    "osm_type": "relation"
+  },
+  "geneva": {
+    "osm_id": 1685488,
+    "osm_type": "relation"
+  },
+  "BelemPA Brasil": null,
+  "Berne, Schweiz": {
+    "osm_id": 1682378,
+    "osm_type": "relation"
+  },
+  "ISO3166-2": null,
+  "\u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 71064,
+    "osm_type": "relation"
+  },
+  "ia": {
+    "osm_id": 161650,
+    "osm_type": "relation"
+  },
+  "Ivano-Frankivsk City Council": {
+    "osm_id": 11042518,
+    "osm_type": "relation"
+  },
+  "Pop-Austria": {
+    "osm_id": 339882253,
+    "osm_type": "way"
+  },
+  "3600111968": null,
+  "Papilio seni\u016bnija": {
+    "osm_id": 216971650,
+    "osm_type": "way"
+  },
+  "10000,{{geocodeCoords:\"veterinary_centre": null,
+  "ir": {
+    "osm_id": 304938,
+    "osm_type": "relation"
+  },
+  "Schzerland": null,
+  "\u0416\u0438\u0442\u043e\u043c\u043d\u0430 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0456\u043a\u0430 \u041a\u0440\u0438\u043c": null,
+  "Postal_code": null,
+  "Mitte": {
+    "osm_id": 16566,
+    "osm_type": "relation"
+  },
+  "Faso": {
+    "osm_id": 4709884447,
+    "osm_type": "node"
+  },
+  "Nederlandland Limburg": null,
+  "Regis, England, UK": {
+    "osm_id": 1011245189,
+    "osm_type": "way"
+  },
+  "Proposedsdam": null,
+  "Belem Brasil": {
+    "osm_id": 185567,
+    "osm_type": "relation"
+  },
+  "Halle": {
+    "osm_id": 62638,
+    "osm_type": "relation"
+  },
+  "morocco": {
+    "osm_id": 3630439,
+    "osm_type": "relation"
+  },
+  "Krasnodar Region": {
+    "osm_id": 7373058,
+    "osm_type": "relation"
+  },
+  "B\u00fcrggen of Kreis Viersen": null,
+  "deutschland": {
+    "osm_id": 51477,
+    "osm_type": "relation"
+  },
+  "spiegelberg": {
+    "osm_id": 400922,
+    "osm_type": "relation"
+  },
+  "L\u00fcneburg": {
+    "osm_id": 2420744,
+    "osm_type": "relation"
+  },
+  "wojew\u00f3dztwo wielkopolskie": {
+    "osm_id": 130971,
+    "osm_type": "relation"
+  },
+  "Hatvan": {
+    "osm_id": 1418333,
+    "osm_type": "relation"
+  },
+  "Ulyanovsk Oblast": {
+    "osm_id": 72192,
+    "osm_type": "relation"
+  },
+  "Caen_centre": {
+    "lat": "49.1813403",
+    "lon": "-0.3635615"
+  },
+  "Communaut\u00e9 de Bordeaux": {
+    "osm_id": 1016362,
+    "osm_type": "relation"
+  },
+  "Antarctica": {
+    "osm_id": 36966060,
+    "osm_type": "node"
+  },
+  "Alcudia": {
+    "osm_id": 347549,
+    "osm_type": "relation"
+  },
+  "\u0412\u0438\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 90726,
+    "osm_type": "relation"
+  },
+  "heidelberg": {
+    "osm_id": 285864,
+    "osm_type": "relation"
+  },
+  "schweiz": {
+    "osm_id": 51701,
+    "osm_type": "relation"
+  },
+  "Nouvelle-Cal\u00e9donie": {
+    "osm_id": 3407643,
+    "osm_type": "relation"
+  },
+  "Ipe\u00fana": {
+    "osm_id": 298184,
+    "osm_type": "relation"
+  },
+  "Belgique": {
+    "osm_id": 52411,
+    "osm_type": "relation"
+  },
+  "Provincia de Cabo Delgado Provincia de Cabo Delgado Provincia": null,
+  "Espana": {
+    "osm_id": 1311341,
+    "osm_type": "relation"
+  },
+  "Ratingen": {
+    "osm_id": 56682,
+    "osm_type": "relation"
+  },
+  "\u041d\u0438\u0436\u043d\u0435 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433": null,
+  "Ober\u00f6sterreich": {
+    "osm_id": 102303,
+    "osm_type": "relation"
+  },
+  "San Mart\u00edn, Corrientes": {
+    "osm_id": 9693430945,
+    "osm_type": "node"
+  },
+  "Moscow": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "iraq": {
+    "osm_id": 304934,
+    "osm_type": "relation"
+  },
+  "Adolfo Su\u00e1rez Madrid\u2013Barajas": {
+    "osm_id": 167025457,
+    "osm_type": "way"
+  },
+  "friuli venezia giulia": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "London Underground": {
+    "osm_id": 9605940998,
+    "osm_type": "node"
+  },
+  "split": {
+    "osm_id": 11153757,
+    "osm_type": "relation"
+  },
+  "Scotland": {
+    "osm_id": 58446,
+    "osm_type": "relation"
+  },
+  "10000_centre": {
+    "lat": "48.29258695",
+    "lon": "4.085126618304557"
+  },
+  "\u0412\u0438\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 90726,
+    "osm_type": "relation"
+  },
+  "Lower Saxony": {
+    "osm_id": 62771,
+    "osm_type": "relation"
+  },
+  "Tuscany, Italy": {
+    "osm_id": 41977,
+    "osm_type": "relation"
+  },
+  "Krasnodar district": {
+    "osm_id": 108082,
+    "osm_type": "relation"
+  },
+  "New York": {
+    "osm_id": 175905,
+    "osm_type": "relation"
+  },
+  "Washington": {
+    "osm_id": 5396194,
+    "osm_type": "relation"
+  },
+  "israel": {
+    "osm_id": 1473946,
+    "osm_type": "relation"
+  },
+  "ardenne": {
+    "osm_id": 7395,
+    "osm_type": "relation"
+  },
+  "Provincia de Cabo Delgado Provincia": {
+    "osm_id": 2908364,
+    "osm_type": "relation"
+  },
+  "Almenara": {
+    "osm_id": 339537,
+    "osm_type": "relation"
+  },
+  "Santa Ana,Taytay,Rizal": {
+    "osm_id": 2997748,
+    "osm_type": "relation"
+  },
+  "Oulu,Ii|Hailuoto|Kempele|Liminka|Lumijoki|Muhos|Tyrn\u00e4v\u00e4|Utaj\u00e4rvi": null,
+  "Bauness to Olaz\u00e1bal": null,
+  "sota": {
+    "osm_id": 729121195,
+    "osm_type": "way"
+  },
+  "S\u00e3o FRANCISCO DO SUL SC Brasil": {
+    "osm_id": 296696,
+    "osm_type": "relation"
+  },
+  "Iglesia": {
+    "osm_id": 5299314587,
+    "osm_type": "node"
+  },
+  "Seignanx": {
+    "osm_id": 4632597,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043a\u0432\u0430_centre": {
+    "lat": "55.7504461",
+    "lon": "37.6174943"
+  },
+  "Calabarzon, Cagayan Valley, Cordillera Administrative Region": null,
+  "ireland": {
+    "osm_id": 62273,
+    "osm_type": "relation"
+  },
+  "Boulder Municipality": {
+    "osm_id": 1416062986,
+    "osm_type": "node"
+  },
+  "Municipio de El Rosario": {
+    "osm_id": 5739982,
+    "osm_type": "relation"
+  },
+  "Almeida": {
+    "osm_id": 4127531,
+    "osm_type": "relation"
+  },
+  "North West of Florida": {
+    "osm_id": 10799897,
+    "osm_type": "way"
+  },
+  "Tamilnadu": {
+    "osm_id": 96905,
+    "osm_type": "relation"
+  },
+  "\u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 1446216612,
+    "osm_type": "node"
+  },
+  "New Cal\u00e9donie": {
+    "osm_id": 3407643,
+    "osm_type": "relation"
+  },
+  "Provincia de Delgado Province": {
+    "osm_id": 2908364,
+    "osm_type": "relation"
+  },
+  "Clumber Park": {
+    "osm_id": 10322429,
+    "osm_type": "relation"
+  },
+  "\u041d\u0438\u0436\u043d\u0435\u043a\u0430\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "\u041c\u043e\u0441\u043a\u0432\u0430, \u0420\u043e\u0441\u0441\u0438\u044f": {
+    "osm_id": 2555133,
+    "osm_type": "relation"
+  },
+  "sicilia": {
+    "osm_id": 39152,
+    "osm_type": "relation"
+  },
+  "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c, Russia": {
+    "osm_id": 108081,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439": {
+    "osm_id": 442314,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438": null,
+  "JON": {
+    "osm_id": 7392,
+    "osm_type": "relation"
+  },
+  "Caraga, Philippines": {
+    "osm_id": 3870502,
+    "osm_type": "relation"
+  },
+  "Santa Maria, RS": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "Bieru\u0144 town": null,
+  "Bordeaux M\u00e9tropole": {
+    "osm_id": 905682,
+    "osm_type": "relation"
+  },
+  "node": {
+    "osm_id": 153438304,
+    "osm_type": "node"
+  },
+  "veterinary_centre": {
+    "lat": "35.722191949999996",
+    "lon": "51.40842267801792"
+  },
+  "Bognor Regis, England, UK": {
+    "osm_id": 2960701,
+    "osm_type": "relation"
+  },
+  "JAMMU AND KASHMIR, India": {
+    "osm_id": 1943188,
+    "osm_type": "relation"
+  },
+  "\u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": {
+    "osm_id": 1442695,
+    "osm_type": "relation"
+  },
+  "Aiglun": {
+    "osm_id": 1999649,
+    "osm_type": "relation"
+  },
+  "3600062341": null,
+  "\u041d\u0438\u0437\u0438\u043d\u043e\u0432\u043e\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "\u041b\u0435\u043d\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Upper Austria": {
+    "osm_id": 102303,
+    "osm_type": "relation"
+  },
+  "\u041a\u0438\u043c\u043e\u0432\u043d\u0438\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": null,
+  "Santa Maria RS, Brasil": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "San Francisco": {
+    "osm_id": 111968,
+    "osm_type": "relation"
+  },
+  "Kannada script": {
+    "osm_id": 1039235349,
+    "osm_type": "way"
+  },
+  "\u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u044c,russia": {
+    "osm_id": 6235100838,
+    "osm_type": "node"
+  },
+  "\u0441\u0430\u043d\u043a\u0442-\u043f\u0435\u0442\u0440\u043e\u043f\u043e\u043b\u044c,russia_bbox": {
+    "bbox": [
+      "59.9409643",
+      "59.9410643",
+      "30.3624606",
+      "30.3625606"
+    ]
+  },
+  "Emiliano Perneta Pinhais PR Brasil": {
+    "osm_id": 6362236,
+    "osm_type": "relation"
+  },
+  "vienna": {
+    "osm_id": 109166,
+    "osm_type": "relation"
+  },
+  "Friuli venezia giulia": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "geocodeArea": null,
+  "Koblenz - Rheinland-Pfalz": {
+    "osm_id": 62512,
+    "osm_type": "relation"
+  },
+  "Taytay": {
+    "osm_id": 2997749,
+    "osm_type": "relation"
+  },
+  "use": {
+    "osm_id": 10790624,
+    "osm_type": "relation"
+  },
+  "Sunday to Saturday": {
+    "osm_id": 4544097789,
+    "osm_type": "node"
+  },
+  "Rio de Janeiro, RJ}": {
+    "osm_id": 2697338,
+    "osm_type": "relation"
+  },
+  "Calabarzon, Cagayan Valley and Cordillera Administrative Region": null,
+  "10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000_centre": null,
+  "Andaluc\u00eda": {
+    "osm_id": 349044,
+    "osm_type": "relation"
+  },
+  "Massa-Carrara": {
+    "osm_id": 42782,
+    "osm_type": "relation"
+  },
+  "Dharap Kreis": null,
+  "CHKO Moravsk\u00fd kraj": {
+    "osm_id": 2022068,
+    "osm_type": "relation"
+  },
+  "North West Florida, USA": {
+    "osm_id": 136615042,
+    "osm_type": "way"
+  },
+  "JAMMU and KASHMIR": {
+    "osm_id": 1943188,
+    "osm_type": "relation"
+  },
+  "Landkreis Lower Saxony": {
+    "osm_id": 10744148042,
+    "osm_type": "node"
+  },
+  "Usa": {
+    "osm_id": 148838,
+    "osm_type": "relation"
+  },
+  "Senegal": {
+    "osm_id": 192775,
+    "osm_type": "relation"
+  },
+  "Worcester": {
+    "osm_id": 1844209,
+    "osm_type": "relation"
+  },
+  "New York, Washington": {
+    "osm_id": 894587419,
+    "osm_type": "way"
+  },
+  "Greater Hume Shire County": null,
+  "Stuttgart": {
+    "osm_id": 2793104,
+    "osm_type": "relation"
+  },
+  "Incourt": {
+    "osm_id": 2351740,
+    "osm_type": "relation"
+  },
+  "London Buses": {
+    "osm_id": 913036213,
+    "osm_type": "way"
+  },
+  "\u041a\u0430\u0440\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c": {
+    "osm_id": 92028782,
+    "osm_type": "way"
+  },
+  "The Netherlands": {
+    "osm_id": 2323309,
+    "osm_type": "relation"
+  },
+  "Ostwestfalen-Lippe": {
+    "osm_id": 5339712,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430": null,
+  "Rhein-Erfurt": {
+    "osm_id": 84383255,
+    "osm_type": "way"
+  },
+  "Bessa Jo\u00e3o Pessoa Brasil": {
+    "osm_id": 2979381,
+    "osm_type": "relation"
+  },
+  "Groningen": {
+    "osm_id": 409863,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u043c\u043e\u0432\u043d\u0438\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u0432\u0430": null,
+  "iran": {
+    "osm_id": 304938,
+    "osm_type": "relation"
+  },
+  "ImieiParchi": null,
+  "Essex County, Massachusetts": {
+    "osm_id": 90434,
+    "osm_type": "relation"
+  },
+  "Parque Malwe,Jaragu\u00e1 do Sul": null,
+  "Rems-Murr-Kreis": {
+    "osm_id": 62412,
+    "osm_type": "relation"
+  },
+  "Valondissement Dendermonde": null,
+  "Czernidyicz,Jaragu\u00e1 do Sul": null,
+  "Str": {
+    "osm_id": 16239,
+    "osm_type": "relation"
+  },
+  "Bieru\u0144townwn": null,
+  "Conceicao dos Weos MG Brasil": null,
+  "Sacramano County": null,
+  "Jodoigne, Perwez": {
+    "osm_id": 562881456,
+    "osm_type": "way"
+  },
+  "Macei\u00f3, brazil": {
+    "osm_id": 303815,
+    "osm_type": "relation"
+  },
+  "\u0416\u0438\u0442\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Recrola": null,
+  "Eixave": null,
+  "UrbanCommcommunity": null,
+  "\u0420-|\u0410-_centre": {
+    "lat": "-3.05579085",
+    "lon": "-60.05449456699597"
+  },
+  "Bikra": {
+    "osm_id": 5057989331,
+    "osm_type": "node"
+  },
+  "Dmonan": null,
+  "ChKO Moravsk\u00fd kras": {
+    "osm_id": 2022068,
+    "osm_type": "relation"
+  },
+  "Vinnytsia\u043e\u043c\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Bath and North East Somerset,UK": {
+    "osm_id": 81941,
+    "osm_type": "relation"
+  },
+  "North West": {
+    "osm_id": 349519,
+    "osm_type": "relation"
+  },
+  "JamMU": {
+    "osm_id": 1685767121,
+    "osm_type": "node"
+  },
+  "sothord": null,
+  "Nationalboundary": null,
+  "MonteFino": {
+    "osm_id": 42079,
+    "osm_type": "relation"
+  },
+  "\u0422\u0435\u0440\u043d\u043e\u043f\u0440\u043e\u043f\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Conceicao dos Newos MG Brasil": null,
+  "Georgia": {
+    "osm_id": 161957,
+    "osm_type": "relation"
+  },
+  "Exrola": null,
+  "Berlin-Mitte": {
+    "osm_id": 3133637,
+    "osm_type": "relation"
+  },
+  "\u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a": {
+    "osm_id": 2049867,
+    "osm_type": "relation"
+  },
+  "parkaguay": null,
+  "Belem pa Brasil": {
+    "osm_id": 185567,
+    "osm_type": "relation"
+  },
+  "CH-KO Moravsk\u00fd kras": null,
+  "Vinnytsia Oblast": {
+    "osm_id": 90726,
+    "osm_type": "relation"
+  },
+  "JAMMU and KashMIR": {
+    "osm_id": 1943188,
+    "osm_type": "relation"
+  },
+  "Francja": {
+    "osm_id": 2202162,
+    "osm_type": "relation"
+  },
+  "Spiegelberg": {
+    "osm_id": 400922,
+    "osm_type": "relation"
+  },
+  "Aiglun, Digne-les-Bains, Argentina": null,
+  "Municipio de Maleo, Somaglia, Bertonico, Terranova dei Passerini, Sanfiorano": null,
+  "Min\u00e9ville": {
+    "osm_id": 9118682,
+    "osm_type": "relation"
+  },
+  "city of Arcueil": null,
+  "Oberhausen": {
+    "osm_id": 62734,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u0440\u0430\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": null,
+  "Cary, Morrisville, North Carolina": {
+    "osm_id": 32634677,
+    "osm_type": "way"
+  },
+  "Karlovarky": {
+    "osm_id": 822267042,
+    "osm_type": "way"
+  },
+  "Bahnhofstra\u00dfe8459199 B\u00f6nen": null,
+  "\u041a\u0430\u043c\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430": null,
+  "Lecommons": null,
+  "\u0414\u043d\u0456\u043f\u0435\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a": null,
+  "S\u00c3OFRANCISCODO SUL SC Brasil": null,
+  "geocodeArea:\"17e": null,
+  "Luxembourg, Luxembourg, Luxembourg": {
+    "osm_id": 407489,
+    "osm_type": "relation"
+  },
+  "Weimar, Germany": {
+    "osm_id": 62493,
+    "osm_type": "relation"
+  },
+  "fiberg": {
+    "osm_id": 754808013,
+    "osm_type": "way"
+  },
+  "lv-RIX": {
+    "osm_id": 13048688,
+    "osm_type": "relation"
+  },
+  "Sindelfingen_centre": {
+    "lat": "48.7084162",
+    "lon": "9.0035455"
+  },
+  "45.5,15.5,48.5,23": null,
+  "Bulgaria": {
+    "osm_id": 186382,
+    "osm_type": "relation"
+  },
+  "Asphalt": {
+    "osm_id": 153524920,
+    "osm_type": "node"
+  },
+  "Georgia US": {
+    "osm_id": 161957,
+    "osm_type": "relation"
+  },
+  "Provincia de El Rosario": {
+    "osm_id": 2496688986,
+    "osm_type": "node"
+  },
+  "FR-42": {
+    "osm_id": 7420,
+    "osm_type": "relation"
+  },
+  "asphalt": {
+    "osm_id": 153524920,
+    "osm_type": "node"
+  },
+  "Espagne": {
+    "osm_id": 1311341,
+    "osm_type": "relation"
+  },
+  "lecce": {
+    "osm_id": 40094,
+    "osm_type": "relation"
+  },
+  "santo amaro": {
+    "osm_id": 362158,
+    "osm_type": "relation"
+  },
+  "North West Of Florida, USA": {
+    "osm_id": 10799897,
+    "osm_type": "way"
+  },
+  "Hampshire": {
+    "osm_id": 2698314,
+    "osm_type": "relation"
+  },
+  "potsdam": {
+    "osm_id": 62369,
+    "osm_type": "relation"
+  },
+  "Communaut\u00e9 d'agglom\u00e9ration du Bordeaux": null,
+  "Boulder monitorings": null,
+  "Comuna 12": {
+    "osm_id": 8786986,
+    "osm_type": "relation"
+  },
+  "\u0412\u043d\u043d\u044f\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "the netherlands": {
+    "osm_id": 2323309,
+    "osm_type": "relation"
+  },
+  "Sweden": {
+    "osm_id": 52822,
+    "osm_type": "relation"
+  },
+  "Calabarzon, Cagayan Valley, Cordillera": null,
+  "Jodoigne, Perwez, Beauve chain, Incourt, H\u00e9l\u00e9cine, Orp-Jauche, Ramillies": null,
+  "\u0416tomyr Oblast": null,
+  " Predrola": null,
+  "Prosdam": null,
+  "Prince ed Island": null,
+  "sourord": null,
+  "Monte fino": {
+    "osm_id": 4459827389,
+    "osm_type": "node"
+  },
+  "\u0416\u0438\u0442\u043e\u043c\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Berlin-Mitte, Berlin": {
+    "osm_id": 3133637,
+    "osm_type": "relation"
+  },
+  "Fabrica Nigeria": null,
+  "parkuay": null,
+  "Almeida, Columbia": {
+    "osm_id": 1353242,
+    "osm_type": "relation"
+  },
+  "Berne, Switzerland": {
+    "osm_id": 1682378,
+    "osm_type": "relation"
+  },
+  "parking": {
+    "osm_id": 12301111,
+    "osm_type": "relation"
+  },
+  "Kreis Viersen": {
+    "osm_id": 62489,
+    "osm_type": "relation"
+  },
+  "ile\u00fana": null,
+  "MUNICIPIOS": {
+    "osm_id": 6658463,
+    "osm_type": "relation"
+  },
+  "Tgte": null,
+  "Communaut\u00e9 de communes Bordeaux": {
+    "osm_id": 1016362,
+    "osm_type": "relation"
+  },
+  "\u0423\u043a\u0440\u0430\u0438\u043d\u0430": {
+    "osm_id": 60199,
+    "osm_type": "relation"
+  },
+  "Comuna 12 buenos": {
+    "osm_id": 4239028,
+    "osm_type": "relation"
+  },
+  "S2000": {
+    "osm_id": 8287907,
+    "osm_type": "relation"
+  },
+  "\u041c\u043e\u0441\u043a\u0432\u0430, \u041c\u043e\u0441\u043a\u0432\u0430_centre": {
+    "lat": "55.7504461",
+    "lon": "37.6174943"
+  },
+  "10000,{{geocodeCoords:\"10000,{{geocodeCoords:\"10000_centre": null,
+  "\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\"](around:250000,{{geocodeCoords:\"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\"](around:250000,{{geocodeCoords:\"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\"](around:250000,{{geocodeCoords:\"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\"](around:250000,{{geocodeCoords:\"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\"](around:250000,{{geocodeCoords:\"\u041c\u043e\u0441\u043a\u0432\u0430, \u0420-|\u0410-\")({{bbox_centre": null,
+  "North West-Vlaorida, USA": null,
+  "Ivory Coast, Senegal": null,
+  "Trans-Austria": {
+    "osm_id": 151182910,
+    "osm_type": "way"
+  },
+  "10000,{{geocodeCoords:\"10000,_centre": null,
+  "Georgia UUS": null,
+  "\u0421\u043c\u0456\u043b\u0430\u0441\u0442\u044c": null,
+  "UK": {
+    "osm_id": 62149,
+    "osm_type": "relation"
+  },
+  "Impsdam": null,
+  "Urban": {
+    "osm_id": 9043936028,
+    "osm_type": "node"
+  },
+  "landuse_centre": {
+    "lat": "33.3738074",
+    "lon": "69.745473"
+  },
+  "Oulu": {
+    "osm_id": 2711874,
+    "osm_type": "relation"
+  },
+  "Ii": {
+    "osm_id": 2525740,
+    "osm_type": "relation"
+  },
+  "Hailouto": null,
+  "soolord": null,
+  "National boundaries": null,
+  "Pharmacies": {
+    "osm_id": 7128794193,
+    "osm_type": "node"
+  },
+  "Al-Austria": {
+    "osm_id": 176602038,
+    "osm_type": "way"
+  },
+  "sofia, Bulgaria": {
+    "osm_id": 4283101,
+    "osm_type": "relation"
+  },
+  "Provence-Alpes-C\u00f4te d'Azur, France": {
+    "osm_id": 8654,
+    "osm_type": "relation"
+  },
+  "Angsdam": null,
+  "fiish": {
+    "osm_id": 893442164,
+    "osm_type": "way"
+  },
+  "Al Sachsen": {
+    "osm_id": 25577486,
+    "osm_type": "way"
+  },
+  "switzer": {
+    "osm_id": 240124,
+    "osm_type": "relation"
+  },
+  "Nieder-Austria": {
+    "osm_id": 9959257544,
+    "osm_type": "node"
+  },
+  "Calabarzon, Cagayan Valley|Cordillera": null,
+  "\u0416\u0438\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "Urban Communaut\u00e9 de communes du Bordeaux": null,
+  "10000,_centre": {
+    "lat": "48.29258695",
+    "lon": "4.085126618304557"
+  },
+  "aoneway": null,
+  "Nederland Limburg": {
+    "osm_id": 47793,
+    "osm_type": "relation"
+  },
+  "Urban Communaut\u00e9 de communes Bordeaux": null,
+  "V\u00e4stra G\u00f6talands l\u00e4n": {
+    "osm_id": 54367,
+    "osm_type": "relation"
+  },
+  "Universidade Federal de Santa Maria, Santa Maria,RS": {
+    "osm_id": 2429423,
+    "osm_type": "relation"
+  },
+  "Rio Grande do Sul, Brazil": {
+    "osm_id": 242620,
+    "osm_type": "relation"
+  },
+  "Paris 2e arrondissement": {
+    "osm_id": 9542,
+    "osm_type": "relation"
+  },
+  "150 kilometers": null,
+  "\u041a\u0430\u0440\u043a\u0438\u0432": null,
+  "\u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0441\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0421\u043e\u0432\u0435\u0442, \u041b\u043e\u0433\u043e\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": {
+    "osm_id": 8014098,
+    "osm_type": "relation"
+  },
+  "M\u00f8re of Romsdal": {
+    "osm_id": 8316781962,
+    "osm_type": "node"
+  },
+  "Lower Sacony": null,
+  "B\u00fcrggen out Kreis Viersen": null,
+  "M\u00e9tropole de Lyon, France": {
+    "osm_id": 4850450,
+    "osm_type": "relation"
+  },
+  "Cordillera Administrative": {
+    "osm_id": 8755514685,
+    "osm_type": "node"
+  },
+  "Argentina Antarctica": {
+    "osm_id": 565191833,
+    "osm_type": "way"
+  },
+  "\u0427\u0435\u0440\u043a\u0430\u0441\u0438": {
+    "osm_id": 2825508,
+    "osm_type": "relation"
+  },
+  "North Rhine-Westphalia": {
+    "osm_id": 62761,
+    "osm_type": "relation"
+  },
+  "nantes": {
+    "osm_id": 59874,
+    "osm_type": "relation"
+  },
+  "Boulder State": {
+    "osm_id": 6177534029,
+    "osm_type": "node"
+  },
+  "\u0412\u0438\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c": null,
+  "New York, Washington, NJ": {
+    "osm_id": 2793603289,
+    "osm_type": "node"
+  },
+  "utah": {
+    "osm_id": 161993,
+    "osm_type": "relation"
+  },
+  "Provincia de Santa Cruz de Tenerife": {
+    "osm_id": 1507166354,
+    "osm_type": "node"
+  },
+  "Cabo Delgado Provincia": {
+    "osm_id": 4607660894,
+    "osm_type": "node"
+  },
+  "Northern Islands": {
+    "osm_id": 43358508,
+    "osm_type": "way"
+  },
+  "\u041a\u0430\u0440\u043b\u043e\u0432\u0438\u0439 \u0412\u0430\u0440\u0438\u0449\u043d\u044b\u0439 \u0424\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433": null,
+  "Leningrad oblestone": null,
+  "friuli Venezia Giulia": {
+    "osm_id": 179296,
+    "osm_type": "relation"
+  },
+  "\u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c, \u0420\u043e\u0441\u0441\u0438\u044f": {
+    "osm_id": 108081,
+    "osm_type": "relation"
+  },
+  "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u043a\u0438\u0439": {
+    "osm_id": 442314,
+    "osm_type": "relation"
+  },
+  "\u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c,\u0423\u043a\u0440\u0430\u0457\u043d\u0430": {
+    "osm_id": 72525,
+    "osm_type": "relation"
+  },
+  "Provincia de Delgado Cabo Delgado": {
+    "osm_id": 4607660894,
+    "osm_type": "node"
+  },
+  "ulm": {
+    "osm_id": 62495,
+    "osm_type": "relation"
+  },
+  "Vermont, Michigan": {
+    "osm_id": 158842877,
+    "osm_type": "node"
+  },
+  "\u041a\u0430\u0440\u043b\u043e\u0432\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d": null,
+  "Santa Maria RS, Rio Grande do Sul": {
+    "osm_id": 242595,
+    "osm_type": "relation"
+  },
+  "jaragu\u00e1 do sul,santa catarina": {
+    "osm_id": 296625,
+    "osm_type": "relation"
+  }
+}
