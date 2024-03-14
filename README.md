@@ -1,4 +1,4 @@
-Code for the preprint:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap"](https://arxiv.org/pdf/2308.16060.pdf)
+Code for the TACL 2024 paper:  [Staniek et al, "Text-to-OverpassQL: A Natural Language Interface for Complex Geodata Querying of OpenStreetMap"](https://arxiv.org/pdf/2308.16060.pdf)
 
 Live Demo: https://overpassnl.schumann.pub/ <br>
 
@@ -22,8 +22,8 @@ where *train_sim_oqo* is used to determine the 333 hard instances in *dataset.{d
 
 
 # Evaluation
-Download the exact OpenStreetMap database we used for the evaluation in the paper [here](https://www.cl.uni-heidelberg.de/~rschuman/files/overpassnl/overpass_clone_db.zip) [306 GB]<br>
-Unzip the file (381 GB unziped) such that the folder structure is: *evaluation/overpass_clone_db/db* <br>
+Download the exact OpenStreetMap database we used for the evaluation in the paper [here](https://www.cl.uni-heidelberg.de/~rschuman/files/overpassnl/db_dump/) [10 parts, total 306 GB]<br>
+Unzip the files (381 GB unziped) such that the folder structure is: *evaluation/overpass_clone_db/db* <br>
 Install *docker* and *docker-compose* and start the container with the Overpass API. 
 
 ```
